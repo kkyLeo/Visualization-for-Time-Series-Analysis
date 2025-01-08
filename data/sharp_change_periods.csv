@@ -1,0 +1,1021 @@
+Field,Timestamp,Value,Reason
+SNEWS Beat Slow rate_P1,2024-02-20 12:25:00,1.1572700000000002e-05,Sharp Change
+SNEWS Beat Slow rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 01:36:30,51.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 06:20:00,0.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 08:11:15,51.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 09:26:00,0.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 09:31:30,51.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 12:19:00,0.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 12:21:15,51.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 12:21:30,0.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 12:24:45,51.0,Sharp Change
+Data Driven Sun avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 01:51:15,26855.7,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 03:42:45,29704.38,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 03:43:00,35364.23333333333,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 03:43:30,24007.046666666665,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 03:43:45,17366.68,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 05:03:00,8744.47,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 08:47:45,16295.6,Sharp Change
+Data Driven Fast Monopole avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SN triggering delay_P1,2024-02-19 15:50:00,57033.61333333333,Sharp Change
+SN triggering delay_P1,2024-02-20 01:13:30,55795.8,Sharp Change
+SN triggering delay_P1,2024-02-20 01:52:15,0.0,Sharp Change
+SN triggering delay_P1,2024-02-20 03:49:45,34163.36,Sharp Change
+SN triggering delay_P1,2024-02-20 04:59:00,0.0,Sharp Change
+SN triggering delay_P1,2024-02-20 05:04:30,35122.5,Sharp Change
+SN triggering delay_P1,2024-02-20 05:18:00,56784.16666666666,Sharp Change
+SN triggering delay_P1,2024-02-20 06:50:00,54811.333333333336,Sharp Change
+SN triggering delay_P1,2024-02-20 06:55:00,54800.833333333336,Sharp Change
+SN triggering delay_P1,2024-02-20 07:40:00,57263.31333333333,Sharp Change
+SN triggering delay_P1,2024-02-20 08:34:30,0.0,Sharp Change
+SN triggering delay_P1,2024-02-20 08:49:45,63023.2,Sharp Change
+SN triggering delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network avg decision_P1,2024-02-20 09:35:30,12906.1,Sharp Change
+Data Driven Fast Monopole Neural Network avg decision_P1,2024-02-20 10:29:00,14983.726666666666,Sharp Change
+Data Driven Fast Monopole Neural Network avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SN message rate_P1,2024-02-19 15:27:45,204.264,Sharp Change
+SN message rate_P1,2024-02-20 01:52:30,96.63094,Sharp Change
+SN message rate_P1,2024-02-20 01:52:45,9.840026599999998,Sharp Change
+SN message rate_P1,2024-02-20 03:44:15,74.14682,Sharp Change
+SN message rate_P1,2024-02-20 03:44:30,164.689,Sharp Change
+SN message rate_P1,2024-02-20 03:44:45,246.4754,Sharp Change
+SN message rate_P1,2024-02-20 03:45:15,134.05826,Sharp Change
+SN message rate_P1,2024-02-20 03:45:30,63.83304,Sharp Change
+SN message rate_P1,2024-02-20 03:48:45,189.0136666666667,Sharp Change
+SN message rate_P1,2024-02-20 04:59:00,0.0,Sharp Change
+SN message rate_P1,2024-02-20 05:04:30,200.067,Sharp Change
+SN message rate_P1,2024-02-20 08:04:00,149.667,Sharp Change
+SN message rate_P1,2024-02-20 08:05:00,143.6002333333333,Sharp Change
+SN message rate_P1,2024-02-20 08:06:00,189.467,Sharp Change
+SN message rate_P1,2024-02-20 08:07:45,148.39659999999998,Sharp Change
+SN message rate_P1,2024-02-20 08:32:00,123.29334,Sharp Change
+SN message rate_P1,2024-02-20 08:32:45,202.81806666666665,Sharp Change
+SN message rate_P1,2024-02-20 08:34:15,66.9333,Sharp Change
+SN message rate_P1,2024-02-20 08:34:30,0.0,Sharp Change
+SN message rate_P1,2024-02-20 08:49:00,135.576,Sharp Change
+SN message rate_P1,2024-02-20 08:49:15,193.18446666666665,Sharp Change
+SN message rate_P1,2024-02-20 08:52:00,153.61299999999997,Sharp Change
+SN message rate_P1,2024-02-20 08:54:00,138.067,Sharp Change
+SN message rate_P1,2024-02-20 08:55:30,246.8496,Sharp Change
+SN message rate_P1,2024-02-20 08:58:15,115.04891333333332,Sharp Change
+SN message rate_P1,2024-02-20 08:59:00,231.21286666666668,Sharp Change
+SN message rate_P1,2024-02-20 09:00:15,93.07996,Sharp Change
+SN message rate_P1,2024-02-20 09:00:30,205.1064,Sharp Change
+SN message rate_P1,2024-02-20 09:01:15,224.983,Sharp Change
+SN message rate_P1,2024-02-20 09:04:30,150.21560000000002,Sharp Change
+SN message rate_P1,2024-02-20 09:05:30,205.1683333333333,Sharp Change
+SN message rate_P1,2024-02-20 09:06:15,58.11996,Sharp Change
+SN message rate_P1,2024-02-20 09:06:30,166.6798,Sharp Change
+SN message rate_P1,2024-02-20 09:08:15,83.98664000000001,Sharp Change
+SN message rate_P1,2024-02-20 09:08:45,179.3072,Sharp Change
+SN message rate_P1,2024-02-20 09:09:00,114.72,Sharp Change
+SN message rate_P1,2024-02-20 09:09:15,181.44,Sharp Change
+SN message rate_P1,2024-02-20 09:11:15,146.84466666666668,Sharp Change
+SN message rate_P1,2024-02-20 09:14:00,189.125,Sharp Change
+SN message rate_P1,2024-02-20 09:17:15,167.5778,Sharp Change
+SN message rate_P1,2024-02-20 09:18:45,160.6932,Sharp Change
+SN message rate_P1,2024-02-20 09:19:30,185.32446666666664,Sharp Change
+SN message rate_P1,2024-02-20 09:22:00,114.5868,Sharp Change
+SN message rate_P1,2024-02-20 09:22:15,164.76020000000003,Sharp Change
+SN message rate_P1,2024-02-20 09:23:00,180.17766666666665,Sharp Change
+SN message rate_P1,2024-02-20 09:25:15,85.2267,Sharp Change
+SN message rate_P1,2024-02-20 09:25:45,164.7742,Sharp Change
+SN message rate_P1,2024-02-20 09:27:00,130.985,Sharp Change
+SN message rate_P1,2024-02-20 09:27:30,211.90246666666664,Sharp Change
+SN message rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SN datablock process rate_P1,2024-02-19 12:50:15,2.3984,Sharp Change
+SN datablock process rate_P1,2024-02-19 14:09:30,2.199989466666666,Sharp Change
+SN datablock process rate_P1,2024-02-20 00:17:15,2.247439333333333,Sharp Change
+SN datablock process rate_P1,2024-02-20 00:40:30,2.06667,Sharp Change
+SN datablock process rate_P1,2024-02-20 03:49:30,2.133191999999999,Sharp Change
+SN datablock process rate_P1,2024-02-20 05:18:15,2.433940866666666,Sharp Change
+SN datablock process rate_P1,2024-02-20 07:36:45,2.331779999999999,Sharp Change
+SN datablock process rate_P1,2024-02-20 07:40:15,2.355558666666666,Sharp Change
+SN datablock process rate_P1,2024-02-20 07:40:30,0.478518288888889,Sharp Change
+SN datablock process rate_P1,2024-02-20 09:06:00,2.239997066666666,Sharp Change
+SN datablock process rate_P1,2024-02-20 09:06:15,0.3866663999999999,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 01:51:00,0.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:42:15,1.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:43:30,1.2,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:43:45,1.733333333333333,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:44:00,1.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:45:45,1.266666666666666,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:46:00,1.666666666666666,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 03:46:15,1.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 05:02:30,1.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 08:32:15,0.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 08:47:00,1.0,Sharp Change
+Data Driven Contained Vertex avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:02:30,13.425926666666664,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:02:45,16.576306666666667,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:03:15,13.191786666666667,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:03:45,16.123726666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:04:15,13.199413333333332,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:05:15,13.319766666666665,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:06:15,13.573333333333332,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:07:00,17.3333,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:07:15,13.840393333333331,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:08:15,13.627093333333333,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:09:15,13.89216,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:10:00,5.06343,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-19 13:10:15,1.066669999999999,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:44:30,13.073586666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:45:15,12.851639999999998,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:47:00,13.381457333333335,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:47:15,9.523729333333334,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:47:30,13.558706666666668,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:49:30,5.86667,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:50:00,1.188666866666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:50:15,3.742171999999999,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 09:50:30,0.999340446666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 11:22:30,12.3251,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 11:30:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 12:14:30,14.190500000000002,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Supernova Cross-trigger rate_P1,2024-02-20 01:32:00,0.000115417999999,Sharp Change
+Supernova Cross-trigger rate_P1,2024-02-20 01:32:15,0.0,Sharp Change
+Supernova Cross-trigger rate_P1,2024-02-20 12:25:00,0.000229727999999,Sharp Change
+Supernova Cross-trigger rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Spill Trigger Std Delay_P1,2024-02-20 01:51:45,2427.6374,Sharp Change
+Spill Trigger Std Delay_P1,2024-02-20 01:52:00,481.5306,Sharp Change
+Spill Trigger Std Delay_P1,2024-02-20 08:32:15,1504.609873333333,Sharp Change
+Spill Trigger Std Delay_P1,2024-02-20 08:32:30,4089.451626666666,Sharp Change
+Spill Trigger Std Delay_P1,2024-02-20 08:32:45,84.08130666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-19 13:02:30,11846.139999999998,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-19 13:10:00,14330.959999999995,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-19 13:10:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:44:30,11204.573333333334,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:50:00,40087.51333333333,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:50:15,46289.76,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:50:30,55659.30666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:50:45,63027.6,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 09:51:00,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 11:22:30,8876.7,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 11:30:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 12:14:30,8388.31,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 01:50:45,20075.0,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 01:51:00,0.0,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 03:42:15,34656.020000000004,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 03:42:30,41222.8,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 03:42:45,34217.70666666667,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 03:43:00,21693.506666666664,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 03:43:45,11656.766666666666,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 05:02:30,10420.7,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 08:32:15,0.0,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 08:47:00,14926.6,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 08:53:15,16958.566666666666,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 09:03:30,10165.893333333332,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 09:04:15,15650.58,Sharp Change
+Data Driven Contained Vertex avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 01:51:00,15983.78,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 01:51:15,23276.099999999995,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 03:42:45,31240.4,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 03:43:00,39082.86666666667,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 03:43:30,24967.88,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 03:44:00,15594.639999999998,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 03:44:15,10420.213333333331,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 05:03:00,9734.57,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 08:47:30,14550.2,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 08:59:00,11519.48,Sharp Change
+Data Driven Neutron-Antineutron avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 01:52:00,2521.7076,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 01:52:15,7279.252000000001,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 01:52:30,1734.7,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 08:32:45,4901.002666666666,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 08:33:00,11910.777333333332,Sharp Change
+Spill Trigger Max Delay_P1,2024-02-20 08:33:15,650.9332666666668,Sharp Change
+Data Driven Fast Monopole Neural Network avg delay_P1,2024-02-20 09:35:30,12905.7,Sharp Change
+Data Driven Fast Monopole Neural Network avg delay_P1,2024-02-20 10:29:00,14983.4,Sharp Change
+Data Driven Fast Monopole Neural Network avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+NuMI Beam Spill Trigger rate_P1,2024-02-19 14:04:30,0.732845,Sharp Change
+NuMI Beam Spill Trigger rate_P1,2024-02-20 12:25:00,0.266489,Sharp Change
+LIGO Trigger rate_P1,2024-02-20 12:25:00,4.2825300000000005e-05,Sharp Change
+LIGO Trigger rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Energy avg length_P1,2024-02-19 14:02:00,35.0,Sharp Change
+Data Driven Energy avg length_P1,2024-02-20 05:29:15,353.53333333333336,Sharp Change
+Data Driven Energy avg length_P1,2024-02-20 05:29:30,11.533333333333331,Sharp Change
+Data Driven Slow Monople rate_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Data Driven Slow Monople rate_P1,2024-02-20 05:02:30,2.73333,Sharp Change
+Data Driven Slow Monople rate_P1,2024-02-20 08:32:15,0.0,Sharp Change
+Data Driven Slow Monople rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Michel rate_P1,2024-02-20 10:04:15,5.959547999999999,Sharp Change
+Data Driven Michel rate_P1,2024-02-20 11:03:15,8.6,Sharp Change
+Data Driven Michel rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Energy rate_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Energy rate_P1,2024-02-20 05:03:00,4.86667,Sharp Change
+Data Driven Energy rate_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Energy rate_P1,2024-02-20 08:47:30,3.5976,Sharp Change
+Data Driven Energy rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 03:44:15,30225.22,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 03:45:00,23937.88666666667,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 03:45:30,11107.56,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 05:04:30,8951.96,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 08:32:00,17086.879999999997,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 08:49:00,12645.0,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 09:00:30,9869.824,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 09:06:15,18600.64,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 09:06:30,11793.54,Sharp Change
+Data Driven Slow Monople avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 18:52:45,8970.31,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:11:15,8795.206,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:15:15,10986.95,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:15:45,6095.746,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:22:45,11934.253333333332,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:26:15,13814.826666666666,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:26:45,5585.069999999999,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:29:15,15163.15,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:29:30,7882.7,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:29:45,10944.483333333334,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:30:00,7009.0633333333335,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:35:15,8044.494666666667,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:35:30,16915.79333333333,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:36:00,10840.233333333334,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:36:45,5507.542,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:38:00,11099.899999999998,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:38:30,6966.881333333335,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:39:15,2698.4780000000005,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:40:00,6507.426,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:41:30,12324.92,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:41:45,8851.160000000002,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:43:00,7846.736666666666,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:45:30,13405.396666666667,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:46:00,16992.1,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:46:15,9066.140888888887,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:49:15,9685.582666666667,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-19 19:52:00,0.0,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-20 05:05:30,8043.917333333334,Sharp Change
+Data Driven Moon avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Overall Trigger Rate_P1,2024-02-19 22:21:00,575.21308,Sharp Change
+Overall Trigger Rate_P1,2024-02-19 22:21:15,135.32362000000003,Sharp Change
+Overall Trigger Rate_P1,2024-02-19 22:21:30,56.37727333333334,Sharp Change
+Overall Trigger Rate_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Overall Trigger Rate_P1,2024-02-20 05:03:00,57.1619,Sharp Change
+Overall Trigger Rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Spill Trigger Avg Delay_P1,2024-02-20 01:52:15,2634.8456,Sharp Change
+Spill Trigger Avg Delay_P1,2024-02-20 01:52:30,835.9346000000002,Sharp Change
+Spill Trigger Avg Delay_P1,2024-02-20 08:32:45,2132.6506666666664,Sharp Change
+Spill Trigger Avg Delay_P1,2024-02-20 08:33:00,4346.1908,Sharp Change
+Spill Trigger Avg Delay_P1,2024-02-20 08:33:15,518.6228666666667,Sharp Change
+Data Driven Neutron-Antineutron avg length_P1,2024-02-20 03:44:15,2.6,Sharp Change
+Data Driven Neutron-Antineutron avg length_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg length_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 01:51:00,0.0,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 03:42:15,30223.66,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 03:43:00,23934.59333333333,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 03:43:30,11107.1,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 05:02:30,8950.35,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 08:30:00,17086.399999999998,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 08:32:15,0.0,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 08:47:00,12644.0,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 08:58:30,9850.527999999998,Sharp Change
+Data Driven Slow Monople avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 01:36:30,6.12925,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 02:33:15,7.937508666666667,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 04:37:30,7.071075333333334,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 04:58:45,7.8,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 05:44:00,7.044656666666667,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 06:19:30,2.9466222,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 06:19:45,0.333111,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:11:15,3.198558,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:11:30,6.7976,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:11:45,10.095733333333332,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:12:15,8.199334,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:12:30,5.29067,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 08:15:45,7.665307333333334,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 09:26:00,0.0,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 09:31:30,5.0,Sharp Change
+Data Driven Sun rate_P1,2024-02-20 09:39:15,3.475309333333333,Sharp Change
+Data Driven Fast Monopole Neural Network avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SN message delay_P1,2024-02-20 01:51:30,14428.0,Sharp Change
+SN message delay_P1,2024-02-20 01:51:45,24666.220000000005,Sharp Change
+SN message delay_P1,2024-02-20 01:52:00,31057.5,Sharp Change
+SN message delay_P1,2024-02-20 01:52:15,0.0,Sharp Change
+SN message delay_P1,2024-02-20 03:43:00,21477.533333333333,Sharp Change
+SN message delay_P1,2024-02-20 03:43:15,27633.52,Sharp Change
+SN message delay_P1,2024-02-20 03:43:30,35641.433333333334,Sharp Change
+SN message delay_P1,2024-02-20 03:43:45,40814.12666666666,Sharp Change
+SN message delay_P1,2024-02-20 03:44:00,36505.206666666665,Sharp Change
+SN message delay_P1,2024-02-20 03:44:15,23980.52,Sharp Change
+SN message delay_P1,2024-02-20 03:44:30,13475.500000000002,Sharp Change
+SN message delay_P1,2024-02-20 04:58:00,0.0,Sharp Change
+SN message delay_P1,2024-02-20 05:03:30,9321.03,Sharp Change
+SN message delay_P1,2024-02-20 08:31:30,8973.162,Sharp Change
+SN message delay_P1,2024-02-20 08:33:30,0.0,Sharp Change
+SN message delay_P1,2024-02-20 08:48:00,13730.9,Sharp Change
+SN message delay_P1,2024-02-20 08:59:30,10598.079999999998,Sharp Change
+SN message delay_P1,2024-02-20 09:04:15,16318.933333333332,Sharp Change
+SN message delay_P1,2024-02-20 09:04:30,11106.420000000002,Sharp Change
+SN message delay_P1,2024-02-20 09:05:15,14995.22,Sharp Change
+SN message delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 01:36:30,8697.69,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 06:19:30,16231.62,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 06:19:45,24938.900000000005,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 06:20:00,0.0,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 08:11:15,28917.26,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 08:11:30,36570.66666666666,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 08:12:00,24316.02,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 08:12:15,18240.92,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 08:12:30,11546.38,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 09:26:00,0.0,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 09:31:30,10914.7,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 11:51:30,14110.809333333336,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 11:57:45,13411.713333333337,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 11:58:15,9349.436666666666,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 11:58:30,15338.146666666666,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 11:58:45,6951.747333333333,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:01:15,13698.1,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:02:45,13838.026666666668,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:03:30,10168.9,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:03:45,15119.6,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:04:15,14065.8,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:04:30,8446.114666666668,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:05:30,8530.518666666667,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:05:45,17907.546666666665,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:06:00,11977.405333333334,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:06:30,21084.4,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:06:45,15657.483333333332,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:07:00,3503.523333333333,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:07:30,15896.311555555556,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:08:45,9475.393333333335,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:10:00,12234.824,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:15:00,3958.393333333333,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:16:00,13978.593333333332,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:16:30,11505.58,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:19:00,0.0,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:21:15,7132.8,Sharp Change
+Data Driven Sun avg delay_P1,2024-02-20 12:21:30,0.0,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 01:51:15,26856.2,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 03:42:45,29706.94,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 03:43:00,35376.36666666667,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 03:43:30,24009.246666666662,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 03:43:45,17367.64,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 05:03:00,8745.68,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 08:47:45,16296.0,Sharp Change
+Data Driven Fast Monopole avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-19 13:02:30,10.066666666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-19 13:10:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 09:44:30,10.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 09:50:00,11.466666666666669,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 09:50:15,8.133333333333333,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 09:51:00,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 11:22:30,10.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 11:30:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 12:14:30,10.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 01:52:45,19939.0,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 03:44:15,23539.820000000003,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 03:44:30,30906.533333333333,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 03:45:00,23635.31333333333,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 03:45:15,15627.899999999998,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 05:04:30,8795.24,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 08:49:00,14413.3,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 08:55:15,16339.993333333334,Sharp Change
+Data Driven Upmu avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Michel avg decision_P1,2024-02-20 10:04:45,0.0,Sharp Change
+Data Driven Michel avg decision_P1,2024-02-20 11:03:15,18595.4,Sharp Change
+Data Driven Michel avg decision_P1,2024-02-20 11:03:30,15711.240000000002,Sharp Change
+Data Driven Michel avg decision_P1,2024-02-20 11:03:45,12374.946666666669,Sharp Change
+Data Driven Michel avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 01:51:00,25341.7,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 01:51:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 03:42:30,30594.98,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 03:42:45,36092.23333333333,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 03:43:15,24651.853333333333,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 03:43:30,18548.8,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 03:43:45,11743.5,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 04:57:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 05:02:45,10223.3,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 08:30:45,9199.082,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 08:32:30,0.0,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 08:47:15,14690.4,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 09:04:30,18253.960000000003,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 09:04:45,13029.920000000002,Sharp Change
+Data Driven Horizontal Muon avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+LIGO Beat Slow rate_P1,2024-02-20 12:25:00,0.00366206,Sharp Change
+LIGO Beat Slow rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Fast Monopole rate_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Fast Monopole rate_P1,2024-02-20 05:03:00,2.86667,Sharp Change
+Data Driven Fast Monopole rate_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Fast Monopole rate_P1,2024-02-20 08:47:45,2.66667,Sharp Change
+Data Driven Fast Monopole rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 14:17:45,0.0216248,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 15:11:45,0.02073605,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 15:36:45,0.0222173,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 16:24:15,0.014514146666666,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 16:27:30,0.01421806,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 16:30:30,0.014070425,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 21:03:00,0.0210323,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 22:09:00,0.021028053333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 22:48:00,0.0222173,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:20:00,0.0222173,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:24:00,0.02162468,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:27:15,0.031841213333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:27:45,0.0111086,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:29:15,0.030360386666666,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:29:45,0.017401593333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:40:00,0.0210323,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-19 23:47:00,0.021916313333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 00:19:45,0.01540217,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 02:09:00,0.0,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 03:44:30,0.019879333333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 03:44:45,0.033322199999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 03:45:00,0.020733813333333,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 04:59:00,0.0,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 05:07:45,0.0222173,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 05:18:30,0.021920989999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 05:23:30,0.021620226666666,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 05:33:30,0.021920989999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 06:13:30,0.021328549999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 06:50:30,0.021920989999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 06:55:30,0.021921049999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 06:56:15,0.013328,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 07:22:15,0.0,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 07:24:30,0.016661099999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 08:34:15,0.0,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 08:49:30,0.021975599999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 09:14:45,0.02073605,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 10:04:45,0.0216248,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 11:04:15,0.009045237142857,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 11:53:45,0.02073605,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 11:58:45,0.021921049999999,Sharp Change
+LIGO Beat Fast rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SNEWS Trigger Min Delay_P1,2024-02-20 03:42:45,16521.464666666667,Sharp Change
+SNEWS Trigger Min Delay_P1,2024-02-20 03:43:00,42.59399999999999,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 01:51:15,0.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 03:42:30,398.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 03:44:30,477.26666666666665,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 04:57:15,0.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 05:02:45,346.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 08:32:30,0.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 08:47:15,409.0,Sharp Change
+Data Driven Slow Monople avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Supernova rate_P1,2024-02-20 12:25:00,4.2519600000000005e-05,Sharp Change
+Data Driven Supernova rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 12:37:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 12:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 13:07:00,0.001666389999999,Sharp Change
+SN bg update rate_P1,2024-02-19 13:07:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 13:17:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 13:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 13:27:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 13:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 13:37:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 13:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 14:07:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 14:07:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 14:17:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 14:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 14:27:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 14:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 14:37:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 14:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 14:47:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 14:47:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 15:07:15,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 15:07:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 15:17:00,0.00170914,Sharp Change
+SN bg update rate_P1,2024-02-19 15:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 15:27:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 15:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 15:47:15,0.00162578,Sharp Change
+SN bg update rate_P1,2024-02-19 15:47:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 15:57:00,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-19 15:57:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 16:37:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 16:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 16:47:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 16:47:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 16:57:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 16:57:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:07:15,0.0016258,Sharp Change
+SN bg update rate_P1,2024-02-19 17:07:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:17:00,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-19 17:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:27:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 17:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:37:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 17:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:47:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 17:47:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 17:57:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 17:57:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 18:07:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 18:07:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 19:17:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 19:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 19:27:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 19:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 20:57:00,0.001666439999999,Sharp Change
+SN bg update rate_P1,2024-02-19 20:57:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 21:07:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 21:07:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 21:17:00,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-19 21:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 22:17:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 22:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 22:27:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 22:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 22:37:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-19 22:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 23:17:00,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-19 23:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 23:27:00,0.0016258,Sharp Change
+SN bg update rate_P1,2024-02-19 23:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 23:37:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-19 23:37:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-19 23:46:45,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-19 23:47:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 00:17:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 00:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 00:37:15,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-20 00:37:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 00:47:15,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-20 00:47:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 00:57:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 00:57:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 01:16:45,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-20 01:17:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 01:27:00,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 01:27:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 01:36:45,0.00166644,Sharp Change
+SN bg update rate_P1,2024-02-20 01:37:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 04:24:45,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 04:25:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 04:34:45,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 04:35:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 04:44:45,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 04:45:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 05:25:15,0.00162575,Sharp Change
+SN bg update rate_P1,2024-02-20 05:25:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 05:44:45,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 05:45:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 05:55:00,0.0016258,Sharp Change
+SN bg update rate_P1,2024-02-20 05:55:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 06:04:45,0.00170917,Sharp Change
+SN bg update rate_P1,2024-02-20 06:05:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 06:14:45,0.001666389999999,Sharp Change
+SN bg update rate_P1,2024-02-20 06:15:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 06:24:45,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 06:25:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 06:55:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 06:55:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 07:54:45,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 07:55:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 08:04:45,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 08:05:00,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 09:25:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 09:25:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 09:55:00,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 09:55:15,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 10:05:15,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 10:05:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 10:15:15,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 10:15:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 10:25:15,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 10:25:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 10:35:15,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 10:35:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 10:45:15,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 10:45:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 11:55:15,0.00166642,Sharp Change
+SN bg update rate_P1,2024-02-20 11:55:30,0.0,Sharp Change
+SN bg update rate_P1,2024-02-20 12:05:15,0.001666419999999,Sharp Change
+SN bg update rate_P1,2024-02-20 12:05:30,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 01:52:30,15984.260000000002,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 01:52:45,23276.5,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 03:44:15,31243.58,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 03:44:30,39086.8,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 03:45:00,24971.3,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 03:45:30,15594.98,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 03:45:45,10420.713333333331,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 05:04:30,9735.72,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 08:49:00,14550.9,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 09:00:30,11555.34,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 09:05:30,11406.713333333337,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 09:06:15,16861.840000000004,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 09:06:30,12301.52,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 09:25:30,10339.472000000002,Sharp Change
+Data Driven Neutron-Antineutron avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Numu avg decision_P1,2024-02-20 11:27:30,9362.389999999998,Sharp Change
+Data Driven Numu avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 01:51:00,22676.960000000003,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 01:51:15,32206.8,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 03:42:30,29041.779999999995,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 03:42:45,34301.666666666664,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 03:43:15,25065.75333333333,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 03:43:30,19572.38,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 03:43:45,12938.260000000002,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 04:57:15,0.0,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 05:02:45,10444.7,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 08:32:30,0.0,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 08:47:15,14490.4,Sharp Change
+Data Driven Energy avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 02:07:15,0.0,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 03:42:30,9.99556,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 05:02:30,9.93333,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 08:30:45,5.995999999999999,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 08:31:00,0.0,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 08:47:30,9.99334,Sharp Change
+Periodic Calibration Pulser rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 03:44:15,2.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 03:45:45,1.266666666666666,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 03:46:00,2.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 05:04:30,2.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 08:19:45,1.6,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 08:20:15,2.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 08:49:00,2.0,Sharp Change
+Data Driven Horizontal Muon avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-19 15:26:15,6.66561,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-19 23:46:30,5.46667,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 03:47:15,5.127755333333334,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 05:03:00,6.400000000000001,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 08:47:30,3.997340000000001,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 08:54:00,8.515454,Sharp Change
+Data Driven Horizontal Muon rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SNEWS Trigger Max Delay_P1,2024-02-19 22:20:45,260097.34146666664,Sharp Change
+SNEWS Trigger Max Delay_P1,2024-02-19 22:21:00,300106.0,Sharp Change
+SNEWS Trigger Max Delay_P1,2024-02-19 22:21:15,20044.372,Sharp Change
+SN processing delay_P1,2024-02-19 15:48:30,51504.44666666666,Sharp Change
+SN processing delay_P1,2024-02-19 16:42:30,49604.44,Sharp Change
+SN processing delay_P1,2024-02-20 01:12:00,51293.3,Sharp Change
+SN processing delay_P1,2024-02-20 01:50:45,0.0,Sharp Change
+SN processing delay_P1,2024-02-20 03:48:00,39821.98,Sharp Change
+SN processing delay_P1,2024-02-20 04:57:30,0.0,Sharp Change
+SN processing delay_P1,2024-02-20 05:03:00,30584.099999999995,Sharp Change
+SN processing delay_P1,2024-02-20 05:16:30,52281.66666666666,Sharp Change
+SN processing delay_P1,2024-02-20 06:48:30,47056.66666666666,Sharp Change
+SN processing delay_P1,2024-02-20 06:53:30,49851.90666666666,Sharp Change
+SN processing delay_P1,2024-02-20 07:38:30,52709.82,Sharp Change
+SN processing delay_P1,2024-02-20 08:33:00,0.0,Sharp Change
+SN processing delay_P1,2024-02-20 08:48:00,39304.3,Sharp Change
+SN processing delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 18:52:45,8969.93,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:11:15,8794.796666666667,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:15:15,10986.464000000002,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:15:45,6095.233333333334,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:22:45,11933.753333333332,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:26:15,13814.36,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:26:45,5584.776666666667,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:29:15,15162.753333333332,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:29:30,7882.306666666667,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:29:45,10944.07,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:30:00,7008.676666666667,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:35:15,8044.088000000001,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:35:30,16915.29333333333,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:36:00,10839.84,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:36:45,5507.294666666666,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:38:00,11099.5,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:38:30,6966.458666666667,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:39:15,2698.198,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:40:00,6506.96,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:41:30,12324.423333333334,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:41:45,8850.67,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:43:00,7846.203333333335,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:45:30,13405.023333333334,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:46:00,16991.7,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:46:15,9065.63511111111,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:49:15,9685.064,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-19 19:52:00,0.0,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-20 05:05:30,8043.515333333333,Sharp Change
+Data Driven Moon avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 01:51:30,20075.4,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 01:51:45,0.0,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 03:43:00,34660.38,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 03:43:15,41233.73333333333,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 03:43:30,34237.53333333333,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 03:43:45,21697.18,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 03:44:30,11657.14,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 04:57:45,0.0,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 05:03:15,10421.9,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 08:33:00,0.0,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 08:47:45,14927.0,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 08:54:00,17150.986666666668,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 09:04:15,10228.306666666667,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 09:05:00,17741.96,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 09:05:15,13355.84,Sharp Change
+Data Driven Contained Vertex avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SNEWS Trigger Std Delay_P1,2024-02-19 22:21:30,161681.92504,Sharp Change
+SNEWS Trigger Std Delay_P1,2024-02-19 22:22:30,7738.627897777778,Sharp Change
+SNEWS Trigger Std Delay_P1,2024-02-20 08:49:00,30131.9,Sharp Change
+SNEWS Trigger Std Delay_P1,2024-02-20 08:49:15,10073.152266666668,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-19 13:02:30,11835.313333333334,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-19 13:10:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:44:30,11199.78,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:50:00,40087.30666666666,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:50:15,46283.706666666665,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:50:30,55586.280000000006,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:50:45,63027.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 09:51:00,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 11:22:30,8876.81,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 11:30:30,0.0,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 12:14:30,8388.81,Sharp Change
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Moon rate_P1,2024-02-20 05:05:30,5.822786666666667,Sharp Change
+Data Driven Moon rate_P1,2024-02-20 05:12:00,6.3970666666666665,Sharp Change
+Data Driven Moon rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Moon avg length_P1,2024-02-19 19:52:00,0.0,Sharp Change
+Data Driven Moon avg length_P1,2024-02-20 05:05:30,52.0,Sharp Change
+Data Driven Moon avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Numu rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SNEWS Trigger Avg Delay_P1,2024-02-19 22:20:30,130090.40813333332,Sharp Change
+SNEWS Trigger Avg Delay_P1,2024-02-19 22:20:45,150098.0,Sharp Change
+SNEWS Trigger Avg Delay_P1,2024-02-19 22:21:00,10043.838666666668,Sharp Change
+SNEWS Trigger Avg Delay_P1,2024-02-20 03:42:30,19062.382666666665,Sharp Change
+SNEWS Trigger Avg Delay_P1,2024-02-20 03:42:45,67.748,Sharp Change
+Data Driven Fast Monopole Neural Network rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Supernova avg length_P1,2024-02-20 12:25:00,10008888.0,Sharp Change
+Data Driven Supernova avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Numu avg delay_P1,2024-02-20 11:27:30,9361.83,Sharp Change
+Data Driven Numu avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-19 15:27:45,11.859893333333334,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 01:52:30,3.7066108,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 03:48:45,8.938184000000001,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 05:04:30,11.466699999999998,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 08:49:00,5.86276,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 08:55:15,4.714074666666666,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 09:00:30,10.49192,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 09:05:15,4.737004666666666,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 09:06:15,3.25195,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 09:25:15,4.490951999999999,Sharp Change
+Data Driven Contained Vertex rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 03:42:30,4.753806666666666,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 04:54:30,2.762742666666666,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 04:57:00,0.0,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 05:02:30,3.6,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 08:32:15,0.0,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 08:47:00,2.53333,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 08:53:30,5.676978,Sharp Change
+Data Driven Upmu rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Michel avg delay_P1,2024-02-20 10:04:45,0.0,Sharp Change
+Data Driven Michel avg delay_P1,2024-02-20 11:03:15,18595.6,Sharp Change
+Data Driven Michel avg delay_P1,2024-02-20 11:03:30,15713.2,Sharp Change
+Data Driven Michel avg delay_P1,2024-02-20 11:03:45,12374.833333333336,Sharp Change
+Data Driven Michel avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 01:51:00,19938.5,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 01:51:15,0.0,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 03:42:30,23534.76,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 03:42:45,30903.033333333333,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 03:43:15,23630.04666666667,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 03:43:30,15620.34,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 04:57:15,0.0,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 05:02:45,8794.34,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 08:32:30,0.0,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 08:47:15,14412.8,Sharp Change
+Data Driven Upmu avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 17:23:15,1.933333333333333,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 17:23:30,1.066666666666666,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 17:28:00,1.733333333333333,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 17:28:15,1.2,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 18:41:45,1.933333333333333,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 18:42:00,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 20:49:15,1.866666666666666,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-19 20:49:30,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 00:38:15,2.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 00:38:30,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 03:44:15,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 05:04:30,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 05:21:30,1.933333333333333,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 05:21:45,1.066666666666666,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 08:49:00,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 11:40:45,1.8,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 11:41:00,1.0,Sharp Change
+Data Driven Upmu avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Michel avg length_P1,2024-02-20 10:04:45,0.0,Sharp Change
+Data Driven Michel avg length_P1,2024-02-20 11:03:15,10.0,Sharp Change
+Data Driven Michel avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 03:48:00,6.42667,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 04:58:15,0.0,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 05:03:45,8.26667,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 08:33:30,0.0,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 08:48:15,6.39574,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 09:04:45,8.555074,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 09:07:30,3.879439999999999,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 09:24:30,3.758041999999999,Sharp Change
+Data Driven Neutron-Antineutron rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 02:09:15,0.0,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 03:44:30,0.977364666666666,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 05:04:30,1.0,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 08:33:00,1.44,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 08:33:15,0.9998224,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 08:49:30,1.06667,Sharp Change
+Accelerator PPS Trigger rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 01:51:15,25340.400000000005,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 03:42:45,30592.26,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 03:43:00,36084.96666666667,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 03:43:30,24649.17333333333,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 03:43:45,18547.26,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 03:44:00,11742.96,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 04:57:30,0.0,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 05:03:00,10222.3,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 08:31:00,9194.978,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 08:32:45,0.0,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 08:47:30,14689.8,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 09:04:45,17147.2,Sharp Change
+Data Driven Horizontal Muon avg delay_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 01:51:00,22677.32,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 01:51:15,32207.4,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 01:51:30,0.0,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 03:42:30,29045.56,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 03:42:45,34306.333333333336,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 03:43:15,25071.74,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 03:43:30,19585.6,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 03:43:45,12938.740000000002,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 04:57:15,0.0,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 05:02:45,10445.6,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 08:32:30,0.0,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 08:47:15,14493.2,Sharp Change
+Data Driven Energy avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 01:36:30,8698.58,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 06:19:30,16232.1,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 06:19:45,24939.3,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 06:20:00,0.0,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 08:11:15,28921.08,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 08:11:30,36576.7,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 08:12:00,24318.2,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 08:12:15,18242.04,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 08:12:30,11546.82,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 09:26:00,0.0,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 09:31:30,10915.9,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 11:51:30,14111.409333333331,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 11:57:45,13414.206666666669,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 11:58:15,9350.198,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 11:58:30,15340.134666666669,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 11:58:45,6952.332,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:01:15,13698.6,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:02:45,13838.933333333332,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:03:30,10169.7,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:03:45,15120.1,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:04:15,14066.9,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:04:30,8447.753333333334,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:05:30,8531.168,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:05:45,17908.07333333333,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:06:00,11977.98,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:06:30,21085.3,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:06:45,15658.619333333332,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:07:00,3503.7740000000003,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:07:30,15897.039555555555,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:08:45,9476.006666666666,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:10:00,12235.449333333332,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:15:00,3958.9506666666666,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:16:00,13979.206666666669,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:16:30,11508.0,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:19:00,0.0,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:21:15,7462.12,Sharp Change
+Data Driven Sun avg decision_P1,2024-02-20 12:21:30,0.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 12:48:45,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 12:49:00,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 12:59:30,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 13:17:00,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 13:43:30,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 13:43:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 14:17:00,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 14:18:00,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 14:18:15,1.133333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 14:42:15,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 15:00:15,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 15:13:45,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 15:17:00,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 15:55:15,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 15:55:30,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 16:09:00,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 16:31:45,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 16:45:45,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 16:46:00,1.133333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 16:57:45,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:20:30,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:20:45,1.133333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:21:00,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:21:15,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:33:45,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 17:54:15,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 18:04:15,1.933333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 18:04:30,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:01:00,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:09:30,1.933333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:09:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:10:30,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:10:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 19:12:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 20:47:30,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 20:47:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 20:57:15,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 20:59:30,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:01:30,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:06:15,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:17:45,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:52:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:59:15,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 21:59:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:05:00,1.933333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:05:15,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:09:45,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:18:30,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:19:00,1.2,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:31:30,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 22:33:30,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:06:30,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:06:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:08:15,1.866666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:08:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:18:00,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-19 23:18:30,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 01:13:30,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 01:13:45,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 01:19:00,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 01:19:15,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 01:53:00,0.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 03:44:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 03:53:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 03:58:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 04:00:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 04:56:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 04:59:00,0.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 05:04:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 05:13:00,1.933333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 05:13:15,1.133333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 06:03:15,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 06:44:00,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 06:44:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 06:45:45,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 06:46:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 07:34:15,2.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 07:34:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 07:48:45,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 08:34:15,0.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 08:49:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 08:57:00,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 09:30:15,1.8,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 09:30:30,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 09:31:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 09:54:45,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 10:11:45,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 10:22:15,1.666666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 10:38:45,1.733333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 11:07:15,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 11:19:00,1.0,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 11:47:15,1.933333333333333,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 11:47:30,1.066666666666666,Sharp Change
+Data Driven Fast Monopole avg length_P1,2024-02-20 12:25:15,0.0,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 01:18:30,0.0133298,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 01:30:15,0.014068775,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 01:34:15,0.01421806,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 02:08:30,0.0,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 03:44:00,0.019879333333333,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 03:44:15,0.033322199999999,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 03:44:30,0.026289096666666,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 04:58:30,0.0,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 05:04:00,0.016661099999999,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 07:52:15,0.0,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 07:55:00,0.016661099999999,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 08:33:15,0.0,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 08:49:00,0.0666223,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 08:49:15,0.022214833333333,Sharp Change
+SNEWS Beat Fast rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 02:08:45,0.0,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 03:44:00,0.999556,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 04:58:30,0.0,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 05:04:00,1.0,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 08:33:45,0.0,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 08:49:00,0.999334,Sharp Change
+DAQ Status Block rate_P1,2024-02-20 12:25:15,0.0,Sharp Change
+Data Driven Supernova avg decision_P1,2024-02-20 12:25:00,57335.1,Sharp Change
+Data Driven Supernova avg decision_P1,2024-02-20 12:25:15,0.0,Sharp Change

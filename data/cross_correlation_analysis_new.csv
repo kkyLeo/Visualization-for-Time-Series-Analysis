@@ -1,0 +1,714 @@
+Field1,Field2,Cross_Correlation,Lag
+Accelerator PPS Trigger rate_P1,DAQ Status Block rate_P1,0.992673945161339,2
+Accelerator PPS Trigger rate_P1,Data Driven Contained Vertex avg decision_P1,0.8760079671935576,6
+Accelerator PPS Trigger rate_P1,Data Driven Contained Vertex avg delay_P1,0.8778357255208749,9
+Accelerator PPS Trigger rate_P1,Data Driven Contained Vertex avg length_P1,0.9193667971696449,8
+Accelerator PPS Trigger rate_P1,Data Driven Contained Vertex rate_P1,0.8740914900279507,0
+Accelerator PPS Trigger rate_P1,Data Driven Energy avg decision_P1,0.8765349436819938,8
+Accelerator PPS Trigger rate_P1,Data Driven Energy avg delay_P1,0.878034146679365,8
+Accelerator PPS Trigger rate_P1,Data Driven Energy rate_P1,0.8750122815539678,6
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole avg decision_P1,0.8693133222850099,7
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole avg delay_P1,0.8707362629805354,7
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole avg length_P1,0.8630268582640277,0
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole rate_P1,0.8505833146041683,6
+Accelerator PPS Trigger rate_P1,Data Driven Horizontal Muon avg decision_P1,0.8741504065249753,8
+Accelerator PPS Trigger rate_P1,Data Driven Horizontal Muon avg delay_P1,0.8757808381765926,7
+Accelerator PPS Trigger rate_P1,Data Driven Horizontal Muon avg length_P1,0.9211928158679474,0
+Accelerator PPS Trigger rate_P1,Data Driven Horizontal Muon rate_P1,0.8645307688812311,6
+Accelerator PPS Trigger rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8741907793154539,1
+Accelerator PPS Trigger rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8758422338350996,7
+Accelerator PPS Trigger rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.8110013196852957,0
+Accelerator PPS Trigger rate_P1,Data Driven Neutron-Antineutron rate_P1,0.8686443764757087,3
+Accelerator PPS Trigger rate_P1,Data Driven Slow Monople avg decision_P1,0.8517063308824147,1
+Accelerator PPS Trigger rate_P1,Data Driven Slow Monople avg delay_P1,0.8535586250560981,9
+Accelerator PPS Trigger rate_P1,Data Driven Slow Monople avg length_P1,0.8893590394553764,7
+Accelerator PPS Trigger rate_P1,Data Driven Slow Monople rate_P1,0.8135920569952292,8
+Accelerator PPS Trigger rate_P1,Data Driven Upmu avg decision_P1,0.8745804259559257,1
+Accelerator PPS Trigger rate_P1,Data Driven Upmu avg delay_P1,0.8758439594584567,8
+Accelerator PPS Trigger rate_P1,Data Driven Upmu avg length_P1,0.9158929632349357,0
+Accelerator PPS Trigger rate_P1,Data Driven Upmu rate_P1,0.8637018561443454,8
+Accelerator PPS Trigger rate_P1,LIGO Beat Fast rate_P1,0.935658784283169,0
+Accelerator PPS Trigger rate_P1,Overall Trigger Rate_P1,0.8347056038665756,6
+Accelerator PPS Trigger rate_P1,Periodic Calibration Pulser rate_P1,0.9859902802310809,8
+Accelerator PPS Trigger rate_P1,SN message delay_P1,0.8646055790585908,6
+Accelerator PPS Trigger rate_P1,SN message rate_P1,0.9041162769475698,0
+Accelerator PPS Trigger rate_P1,SN processing delay_P1,0.8248985290160349,6
+Accelerator PPS Trigger rate_P1,SN triggering delay_P1,0.8367599090511838,-1
+Accelerator PPS Trigger rate_P1,SNEWS Beat Fast rate_P1,0.9601070625649534,2
+Accelerator PPS Trigger rate_P1,Spill Trigger Avg Delay_P1,0.7318517495097923,1
+DAQ Status Block rate_P1,Data Driven Contained Vertex avg decision_P1,0.88124466545806,4
+DAQ Status Block rate_P1,Data Driven Contained Vertex avg delay_P1,0.8831093326780144,7
+DAQ Status Block rate_P1,Data Driven Contained Vertex avg length_P1,0.92485209935272,6
+DAQ Status Block rate_P1,Data Driven Contained Vertex rate_P1,0.8787569425277243,-2
+DAQ Status Block rate_P1,Data Driven Energy avg decision_P1,0.8816759117840027,6
+DAQ Status Block rate_P1,Data Driven Energy avg delay_P1,0.8832169249214405,6
+DAQ Status Block rate_P1,Data Driven Energy rate_P1,0.8808078393686023,4
+DAQ Status Block rate_P1,Data Driven Fast Monopole avg decision_P1,0.8749659453401194,5
+DAQ Status Block rate_P1,Data Driven Fast Monopole avg delay_P1,0.8764225489784089,5
+DAQ Status Block rate_P1,Data Driven Fast Monopole avg length_P1,0.8678139470625049,-1
+DAQ Status Block rate_P1,Data Driven Fast Monopole rate_P1,0.8552841280115171,4
+DAQ Status Block rate_P1,Data Driven Horizontal Muon avg decision_P1,0.8790128941012765,6
+DAQ Status Block rate_P1,Data Driven Horizontal Muon avg delay_P1,0.8806787780926876,5
+DAQ Status Block rate_P1,Data Driven Horizontal Muon avg length_P1,0.9257878393602833,-1
+DAQ Status Block rate_P1,Data Driven Horizontal Muon rate_P1,0.8700310468757982,4
+DAQ Status Block rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8796031103937535,-1
+DAQ Status Block rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8812329423583197,5
+DAQ Status Block rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.8164974055056852,-2
+DAQ Status Block rate_P1,Data Driven Neutron-Antineutron rate_P1,0.8738555160481223,1
+DAQ Status Block rate_P1,Data Driven Slow Monople avg decision_P1,0.8568626850049202,-1
+DAQ Status Block rate_P1,Data Driven Slow Monople avg delay_P1,0.8585664860722309,7
+DAQ Status Block rate_P1,Data Driven Slow Monople avg length_P1,0.8942624404209126,6
+DAQ Status Block rate_P1,Data Driven Slow Monople rate_P1,0.819117015042503,6
+DAQ Status Block rate_P1,Data Driven Upmu avg decision_P1,0.8800483002381598,-1
+DAQ Status Block rate_P1,Data Driven Upmu avg delay_P1,0.8811553168689242,6
+DAQ Status Block rate_P1,Data Driven Upmu avg length_P1,0.9206451457892848,-1
+DAQ Status Block rate_P1,Data Driven Upmu rate_P1,0.8686051170914101,6
+DAQ Status Block rate_P1,LIGO Beat Fast rate_P1,0.9392955025666736,-2
+DAQ Status Block rate_P1,Overall Trigger Rate_P1,0.8398584437483012,4
+DAQ Status Block rate_P1,Periodic Calibration Pulser rate_P1,0.9927745386510848,6
+DAQ Status Block rate_P1,SN message delay_P1,0.8700914704015956,4
+DAQ Status Block rate_P1,SN message rate_P1,0.9084738361720556,-2
+DAQ Status Block rate_P1,SN processing delay_P1,0.8300848948972199,4
+DAQ Status Block rate_P1,SN triggering delay_P1,0.8416636561035364,-3
+DAQ Status Block rate_P1,SNEWS Beat Fast rate_P1,0.9661885812843485,0
+DAQ Status Block rate_P1,Spill Trigger Avg Delay_P1,0.7076734535403602,-2
+Data Driven Contained Vertex avg decision_P1,Data Driven Contained Vertex avg delay_P1,0.9989436445636717,3
+Data Driven Contained Vertex avg decision_P1,Data Driven Contained Vertex avg length_P1,0.951115924973528,3
+Data Driven Contained Vertex avg decision_P1,Data Driven Contained Vertex rate_P1,0.8612526049899497,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Energy avg decision_P1,0.9710007746061926,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Energy avg delay_P1,0.970676820054263,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Energy rate_P1,0.8977123000622359,0
+Data Driven Contained Vertex avg decision_P1,Data Driven Fast Monopole avg decision_P1,0.9677887532998247,1
+Data Driven Contained Vertex avg decision_P1,Data Driven Fast Monopole avg delay_P1,0.9674359071238777,1
+Data Driven Contained Vertex avg decision_P1,Data Driven Fast Monopole avg length_P1,0.8901493876826373,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Fast Monopole rate_P1,0.8663964498870842,0
+Data Driven Contained Vertex avg decision_P1,Data Driven Horizontal Muon avg decision_P1,0.981877769851513,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Horizontal Muon avg delay_P1,0.981784101688203,1
+Data Driven Contained Vertex avg decision_P1,Data Driven Horizontal Muon avg length_P1,0.9515597722733703,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Horizontal Muon rate_P1,0.8639432198244554,0
+Data Driven Contained Vertex avg decision_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9856816997393482,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Neutron-Antineutron avg delay_P1,0.985413038775456,1
+Data Driven Contained Vertex avg decision_P1,Data Driven Neutron-Antineutron avg length_P1,0.8400180638917273,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Neutron-Antineutron rate_P1,0.8645699689976553,-2
+Data Driven Contained Vertex avg decision_P1,Data Driven Slow Monople avg decision_P1,0.9608960549636106,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9604605985181661,3
+Data Driven Contained Vertex avg decision_P1,Data Driven Slow Monople avg length_P1,0.9214807442281017,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Slow Monople rate_P1,0.8119526400158237,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Upmu avg decision_P1,0.9756513028885949,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Upmu avg delay_P1,0.9753899922255715,2
+Data Driven Contained Vertex avg decision_P1,Data Driven Upmu avg length_P1,0.9462194664230783,-5
+Data Driven Contained Vertex avg decision_P1,Data Driven Upmu rate_P1,0.8989837222157298,2
+Data Driven Contained Vertex avg decision_P1,LIGO Beat Fast rate_P1,0.8435152556739686,-6
+Data Driven Contained Vertex avg decision_P1,Overall Trigger Rate_P1,0.8153522543313695,0
+Data Driven Contained Vertex avg decision_P1,Periodic Calibration Pulser rate_P1,0.875841322327466,2
+Data Driven Contained Vertex avg decision_P1,SN message delay_P1,0.9734817868270286,-1
+Data Driven Contained Vertex avg decision_P1,SN message rate_P1,0.9126963961017607,-6
+Data Driven Contained Vertex avg decision_P1,SN processing delay_P1,0.86115255662135,0
+Data Driven Contained Vertex avg decision_P1,SN triggering delay_P1,0.8667718994943222,-6
+Data Driven Contained Vertex avg decision_P1,SNEWS Beat Fast rate_P1,0.8688765913697646,-4
+Data Driven Contained Vertex avg delay_P1,Data Driven Contained Vertex avg length_P1,0.9541221050740261,0
+Data Driven Contained Vertex avg delay_P1,Data Driven Contained Vertex rate_P1,0.8652289098593754,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Energy avg decision_P1,0.9710243157408238,-1
+Data Driven Contained Vertex avg delay_P1,Data Driven Energy avg delay_P1,0.9709705371007084,-1
+Data Driven Contained Vertex avg delay_P1,Data Driven Energy rate_P1,0.8989318970639083,-3
+Data Driven Contained Vertex avg delay_P1,Data Driven Fast Monopole avg decision_P1,0.9678331695825259,-2
+Data Driven Contained Vertex avg delay_P1,Data Driven Fast Monopole avg delay_P1,0.9677539207153311,-2
+Data Driven Contained Vertex avg delay_P1,Data Driven Fast Monopole avg length_P1,0.892038280832215,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Fast Monopole rate_P1,0.8678421086371998,-3
+Data Driven Contained Vertex avg delay_P1,Data Driven Horizontal Muon avg decision_P1,0.9816299341592187,-1
+Data Driven Contained Vertex avg delay_P1,Data Driven Horizontal Muon avg delay_P1,0.9818372415205522,-2
+Data Driven Contained Vertex avg delay_P1,Data Driven Horizontal Muon avg length_P1,0.9535810500004308,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Horizontal Muon rate_P1,0.8670047881809166,-2
+Data Driven Contained Vertex avg delay_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9854713345935247,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9856214022372383,-2
+Data Driven Contained Vertex avg delay_P1,Data Driven Neutron-Antineutron avg length_P1,0.8416919029834053,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Neutron-Antineutron rate_P1,0.8687271648310882,-5
+Data Driven Contained Vertex avg delay_P1,Data Driven Slow Monople avg decision_P1,0.9603767914040627,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Slow Monople avg delay_P1,0.9614024825492983,0
+Data Driven Contained Vertex avg delay_P1,Data Driven Slow Monople avg length_P1,0.9234893804073354,-1
+Data Driven Contained Vertex avg delay_P1,Data Driven Slow Monople rate_P1,0.8163723092757263,0
+Data Driven Contained Vertex avg delay_P1,Data Driven Upmu avg decision_P1,0.9756396248718748,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Upmu avg delay_P1,0.9756480185686297,-1
+Data Driven Contained Vertex avg delay_P1,Data Driven Upmu avg length_P1,0.9482432294116371,-8
+Data Driven Contained Vertex avg delay_P1,Data Driven Upmu rate_P1,0.9001208261507836,-1
+Data Driven Contained Vertex avg delay_P1,LIGO Beat Fast rate_P1,0.845307624260828,-9
+Data Driven Contained Vertex avg delay_P1,Overall Trigger Rate_P1,0.8172880413387288,-3
+Data Driven Contained Vertex avg delay_P1,Periodic Calibration Pulser rate_P1,0.8776286938521229,-1
+Data Driven Contained Vertex avg delay_P1,SN message delay_P1,0.973215102662503,-4
+Data Driven Contained Vertex avg delay_P1,SN message rate_P1,0.9158529147401138,-9
+Data Driven Contained Vertex avg delay_P1,SN processing delay_P1,0.860121247138361,-3
+Data Driven Contained Vertex avg delay_P1,SN triggering delay_P1,0.8667866129427368,-9
+Data Driven Contained Vertex avg delay_P1,SNEWS Beat Fast rate_P1,0.8707134686117657,-7
+Data Driven Contained Vertex avg length_P1,Data Driven Contained Vertex rate_P1,0.9397276072674374,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Energy avg decision_P1,0.9451719623169432,-1
+Data Driven Contained Vertex avg length_P1,Data Driven Energy avg delay_P1,0.9468261448730846,-1
+Data Driven Contained Vertex avg length_P1,Data Driven Energy rate_P1,0.9463663046714542,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole avg decision_P1,0.9408326837606374,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole avg delay_P1,0.9424050053429406,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole avg length_P1,0.9325703703069701,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole rate_P1,0.9163461624226468,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Horizontal Muon avg decision_P1,0.9483945238730689,-1
+Data Driven Contained Vertex avg length_P1,Data Driven Horizontal Muon avg delay_P1,0.9502066968939124,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Horizontal Muon avg length_P1,0.9969286437848724,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Horizontal Muon rate_P1,0.9313886028575203,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9488884815819236,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9506963720434314,-2
+Data Driven Contained Vertex avg length_P1,Data Driven Neutron-Antineutron avg length_P1,0.8794731297692461,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Neutron-Antineutron rate_P1,0.9365802203448758,-5
+Data Driven Contained Vertex avg length_P1,Data Driven Slow Monople avg decision_P1,0.9246394842701054,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Slow Monople avg delay_P1,0.9276061973875355,0
+Data Driven Contained Vertex avg length_P1,Data Driven Slow Monople avg length_P1,0.9634201798563056,-1
+Data Driven Contained Vertex avg length_P1,Data Driven Slow Monople rate_P1,0.8777454913638718,0
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu avg decision_P1,0.9496271528455819,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu avg delay_P1,0.951010380607875,-1
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu avg length_P1,0.9919739023901073,-8
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu rate_P1,0.9353074578417243,0
+Data Driven Contained Vertex avg length_P1,LIGO Beat Fast rate_P1,0.8734073309609822,-9
+Data Driven Contained Vertex avg length_P1,Overall Trigger Rate_P1,0.872771447353131,-2
+Data Driven Contained Vertex avg length_P1,Periodic Calibration Pulser rate_P1,0.9204188926504884,0
+Data Driven Contained Vertex avg length_P1,SN datablock process rate_P1,0.7430902878541497,-9
+Data Driven Contained Vertex avg length_P1,SN message delay_P1,0.9305717359695063,-4
+Data Driven Contained Vertex avg length_P1,SN message rate_P1,0.9738504247040869,-8
+Data Driven Contained Vertex avg length_P1,SN processing delay_P1,0.8856637469600042,-3
+Data Driven Contained Vertex avg length_P1,SN triggering delay_P1,0.8972349404469198,-9
+Data Driven Contained Vertex avg length_P1,SNEWS Beat Fast rate_P1,0.8959265153872299,-7
+Data Driven Contained Vertex rate_P1,Data Driven Energy avg decision_P1,0.8637631500415885,7
+Data Driven Contained Vertex rate_P1,Data Driven Energy avg delay_P1,0.866983148209509,7
+Data Driven Contained Vertex rate_P1,Data Driven Energy rate_P1,0.919404266580252,6
+Data Driven Contained Vertex rate_P1,Data Driven Fast Monopole avg decision_P1,0.8599725022417849,6
+Data Driven Contained Vertex rate_P1,Data Driven Fast Monopole avg delay_P1,0.8630227156175512,6
+Data Driven Contained Vertex rate_P1,Data Driven Fast Monopole avg length_P1,0.8858387041032036,0
+Data Driven Contained Vertex rate_P1,Data Driven Fast Monopole rate_P1,0.8928992349087793,6
+Data Driven Contained Vertex rate_P1,Data Driven Horizontal Muon avg decision_P1,0.8590904924682734,7
+Data Driven Contained Vertex rate_P1,Data Driven Horizontal Muon avg delay_P1,0.8625142823979701,6
+Data Driven Contained Vertex rate_P1,Data Driven Horizontal Muon avg length_P1,0.9457675718596472,0
+Data Driven Contained Vertex rate_P1,Data Driven Horizontal Muon rate_P1,0.9408908443079976,6
+Data Driven Contained Vertex rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.862604699077751,0
+Data Driven Contained Vertex rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.865243064309227,6
+Data Driven Contained Vertex rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.8315185116396054,0
+Data Driven Contained Vertex rate_P1,Data Driven Neutron-Antineutron rate_P1,0.9514983764277438,3
+Data Driven Contained Vertex rate_P1,Data Driven Slow Monople avg decision_P1,0.8318932548490642,0
+Data Driven Contained Vertex rate_P1,Data Driven Slow Monople avg delay_P1,0.8349836158770658,8
+Data Driven Contained Vertex rate_P1,Data Driven Slow Monople avg length_P1,0.9126269695329268,7
+Data Driven Contained Vertex rate_P1,Data Driven Slow Monople rate_P1,0.8870659614280433,8
+Data Driven Contained Vertex rate_P1,Data Driven Upmu avg decision_P1,0.869948137676489,0
+Data Driven Contained Vertex rate_P1,Data Driven Upmu avg delay_P1,0.8717251111951054,7
+Data Driven Contained Vertex rate_P1,Data Driven Upmu avg length_P1,0.9399209868563007,0
+Data Driven Contained Vertex rate_P1,Data Driven Upmu rate_P1,0.8843699039249997,8
+Data Driven Contained Vertex rate_P1,LIGO Beat Fast rate_P1,0.8227308471556873,0
+Data Driven Contained Vertex rate_P1,Overall Trigger Rate_P1,0.8692745831484094,6
+Data Driven Contained Vertex rate_P1,Periodic Calibration Pulser rate_P1,0.8735374862783268,8
+Data Driven Contained Vertex rate_P1,SN datablock process rate_P1,0.7385145546761082,0
+Data Driven Contained Vertex rate_P1,SN message delay_P1,0.8359801576827776,3
+Data Driven Contained Vertex rate_P1,SN message rate_P1,0.9733594016615412,0
+Data Driven Contained Vertex rate_P1,SN processing delay_P1,0.8446459273656114,7
+Data Driven Contained Vertex rate_P1,SN triggering delay_P1,0.8598205515266539,1
+Data Driven Contained Vertex rate_P1,SNEWS Beat Fast rate_P1,0.841439516516605,2
+Data Driven Energy avg decision_P1,Data Driven Energy avg delay_P1,0.9998772306189757,0
+Data Driven Energy avg decision_P1,Data Driven Energy rate_P1,0.8912274672632717,-1
+Data Driven Energy avg decision_P1,Data Driven Fast Monopole avg decision_P1,0.9566503385432163,-1
+Data Driven Energy avg decision_P1,Data Driven Fast Monopole avg delay_P1,0.9563862473609025,-1
+Data Driven Energy avg decision_P1,Data Driven Fast Monopole avg length_P1,0.8849891461603557,-7
+Data Driven Energy avg decision_P1,Data Driven Fast Monopole rate_P1,0.8613562788731473,-2
+Data Driven Energy avg decision_P1,Data Driven Horizontal Muon avg decision_P1,0.9689752523759323,0
+Data Driven Energy avg decision_P1,Data Driven Horizontal Muon avg delay_P1,0.9682094489734973,-1
+Data Driven Energy avg decision_P1,Data Driven Horizontal Muon avg length_P1,0.9459491124207494,-7
+Data Driven Energy avg decision_P1,Data Driven Horizontal Muon rate_P1,0.8670113618587547,-1
+Data Driven Energy avg decision_P1,Data Driven Neutron-Antineutron avg decision_P1,0.969654468959927,-7
+Data Driven Energy avg decision_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9698147120114219,-1
+Data Driven Energy avg decision_P1,Data Driven Neutron-Antineutron avg length_P1,0.8335458561821734,-7
+Data Driven Energy avg decision_P1,Data Driven Neutron-Antineutron rate_P1,0.8656735075905048,-4
+Data Driven Energy avg decision_P1,Data Driven Slow Monople avg decision_P1,0.9447320812285555,-7
+Data Driven Energy avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9449891706334096,1
+Data Driven Energy avg decision_P1,Data Driven Slow Monople avg length_P1,0.9166678797865745,0
+Data Driven Energy avg decision_P1,Data Driven Slow Monople rate_P1,0.8143825864049411,0
+Data Driven Energy avg decision_P1,Data Driven Upmu avg decision_P1,0.9621558438625117,-7
+Data Driven Energy avg decision_P1,Data Driven Upmu avg delay_P1,0.9629974669044497,0
+Data Driven Energy avg decision_P1,Data Driven Upmu avg length_P1,0.9409011875568563,-7
+Data Driven Energy avg decision_P1,Data Driven Upmu rate_P1,0.8927813458545116,0
+Data Driven Energy avg decision_P1,LIGO Beat Fast rate_P1,0.8386974863521882,-8
+Data Driven Energy avg decision_P1,Overall Trigger Rate_P1,0.8154822983695834,-1
+Data Driven Energy avg decision_P1,Periodic Calibration Pulser rate_P1,0.8777767154203271,0
+Data Driven Energy avg decision_P1,SN datablock process rate_P1,0.7017333622513859,-8
+Data Driven Energy avg decision_P1,SN message delay_P1,0.9756912417309994,-3
+Data Driven Energy avg decision_P1,SN message rate_P1,0.911483141046523,-7
+Data Driven Energy avg decision_P1,SN processing delay_P1,0.8631680919325135,-1
+Data Driven Energy avg decision_P1,SN triggering delay_P1,0.8698034982954429,-7
+Data Driven Energy avg decision_P1,SNEWS Beat Fast rate_P1,0.8668085196446235,-6
+Data Driven Energy avg delay_P1,Data Driven Energy rate_P1,0.8933754113534393,-1
+Data Driven Energy avg delay_P1,Data Driven Fast Monopole avg decision_P1,0.9565042794737092,-1
+Data Driven Energy avg delay_P1,Data Driven Fast Monopole avg delay_P1,0.956461543770345,-1
+Data Driven Energy avg delay_P1,Data Driven Fast Monopole avg length_P1,0.8864781979195753,-7
+Data Driven Energy avg delay_P1,Data Driven Fast Monopole rate_P1,0.8632593970548729,-2
+Data Driven Energy avg delay_P1,Data Driven Horizontal Muon avg decision_P1,0.9685968532589097,0
+Data Driven Energy avg delay_P1,Data Driven Horizontal Muon avg delay_P1,0.9680502627976374,-1
+Data Driven Energy avg delay_P1,Data Driven Horizontal Muon avg length_P1,0.9476005525893325,-7
+Data Driven Energy avg delay_P1,Data Driven Horizontal Muon rate_P1,0.8696588166136785,-1
+Data Driven Energy avg delay_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9693631509146882,-7
+Data Driven Energy avg delay_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9697638530908829,-1
+Data Driven Energy avg delay_P1,Data Driven Neutron-Antineutron avg length_P1,0.8349240159502294,-7
+Data Driven Energy avg delay_P1,Data Driven Neutron-Antineutron rate_P1,0.8689730049682742,-4
+Data Driven Energy avg delay_P1,Data Driven Slow Monople avg decision_P1,0.9441676624854254,-7
+Data Driven Energy avg delay_P1,Data Driven Slow Monople avg delay_P1,0.9446905888672196,1
+Data Driven Energy avg delay_P1,Data Driven Slow Monople avg length_P1,0.918276902316075,0
+Data Driven Energy avg delay_P1,Data Driven Slow Monople rate_P1,0.8167642071031858,0
+Data Driven Energy avg delay_P1,Data Driven Upmu avg decision_P1,0.9619401218616859,-7
+Data Driven Energy avg delay_P1,Data Driven Upmu avg delay_P1,0.96295788084443,0
+Data Driven Energy avg delay_P1,Data Driven Upmu avg length_P1,0.9425572223613262,-7
+Data Driven Energy avg delay_P1,Data Driven Upmu rate_P1,0.8937754024293888,0
+Data Driven Energy avg delay_P1,LIGO Beat Fast rate_P1,0.840147674937795,-8
+Data Driven Energy avg delay_P1,Overall Trigger Rate_P1,0.8181098919165422,-1
+Data Driven Energy avg delay_P1,Periodic Calibration Pulser rate_P1,0.8793007290958316,0
+Data Driven Energy avg delay_P1,SN datablock process rate_P1,0.702932789246603,-8
+Data Driven Energy avg delay_P1,SN message delay_P1,0.9753968438912878,-3
+Data Driven Energy avg delay_P1,SN message rate_P1,0.9144268254617902,-7
+Data Driven Energy avg delay_P1,SN processing delay_P1,0.862888400819371,-1
+Data Driven Energy avg delay_P1,SN triggering delay_P1,0.8696980964102102,-7
+Data Driven Energy avg delay_P1,SNEWS Beat Fast rate_P1,0.8683215260918576,-6
+Data Driven Energy rate_P1,Data Driven Fast Monopole avg decision_P1,0.8886465986869543,0
+Data Driven Energy rate_P1,Data Driven Fast Monopole avg delay_P1,0.8906807049449773,0
+Data Driven Energy rate_P1,Data Driven Fast Monopole avg length_P1,0.886361816095251,-7
+Data Driven Energy rate_P1,Data Driven Fast Monopole rate_P1,0.8868559860546722,0
+Data Driven Energy rate_P1,Data Driven Horizontal Muon avg decision_P1,0.8934260190288869,2
+Data Driven Energy rate_P1,Data Driven Horizontal Muon avg delay_P1,0.8954574727420608,0
+Data Driven Energy rate_P1,Data Driven Horizontal Muon avg length_P1,0.9483151092030164,-6
+Data Driven Energy rate_P1,Data Driven Horizontal Muon rate_P1,0.908542049765403,0
+Data Driven Energy rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8949322747490946,-5
+Data Driven Energy rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8982093474720018,0
+Data Driven Energy rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.8361266834962329,-7
+Data Driven Energy rate_P1,Data Driven Neutron-Antineutron rate_P1,0.9157576725909136,-3
+Data Driven Energy rate_P1,Data Driven Slow Monople avg decision_P1,0.8704787666652698,-6
+Data Driven Energy rate_P1,Data Driven Slow Monople avg delay_P1,0.8734260168562596,2
+Data Driven Energy rate_P1,Data Driven Slow Monople avg length_P1,0.9174249889719797,1
+Data Driven Energy rate_P1,Data Driven Slow Monople rate_P1,0.8568890065874625,2
+Data Driven Energy rate_P1,Data Driven Upmu avg decision_P1,0.8964392138589117,-6
+Data Driven Energy rate_P1,Data Driven Upmu avg delay_P1,0.8983171888104361,1
+Data Driven Energy rate_P1,Data Driven Upmu avg length_P1,0.9421658682091111,-6
+Data Driven Energy rate_P1,Data Driven Upmu rate_P1,0.8924944687162828,2
+Data Driven Energy rate_P1,LIGO Beat Fast rate_P1,0.8258738928604223,-8
+Data Driven Energy rate_P1,Overall Trigger Rate_P1,0.8522078418440309,0
+Data Driven Energy rate_P1,Periodic Calibration Pulser rate_P1,0.8761712092795846,2
+Data Driven Energy rate_P1,SN datablock process rate_P1,0.72119065877709,-8
+Data Driven Energy rate_P1,SN message delay_P1,0.8764396454144886,-1
+Data Driven Energy rate_P1,SN message rate_P1,0.946781562289073,-6
+Data Driven Energy rate_P1,SN processing delay_P1,0.8502233987837667,0
+Data Driven Energy rate_P1,SN triggering delay_P1,0.8608277311671431,-6
+Data Driven Energy rate_P1,SNEWS Beat Fast rate_P1,0.853834028608563,-4
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,0.999998196562825,0
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,0.795675032864089,0
+Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,0.7955647209478883,0
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Fast Monopole Neural Network Variant 2 rate_P1,0.9708198058792762,0
+Data Driven Fast Monopole Neural Network avg decision_P1,Data Driven Fast Monopole Neural Network avg delay_P1,0.9999991150230487,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Fast Monopole avg delay_P1,0.9998719454883241,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Fast Monopole avg length_P1,0.882452936352667,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Fast Monopole rate_P1,0.8597126039155899,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Horizontal Muon avg decision_P1,0.9652975506859883,1
+Data Driven Fast Monopole avg decision_P1,Data Driven Horizontal Muon avg delay_P1,0.9661509539950898,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Horizontal Muon avg length_P1,0.9416707589593479,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Horizontal Muon rate_P1,0.8633919285425463,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9667927010930584,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9677755583912871,0
+Data Driven Fast Monopole avg decision_P1,Data Driven Neutron-Antineutron avg length_P1,0.8310729318931784,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Neutron-Antineutron rate_P1,0.8612436140513422,-3
+Data Driven Fast Monopole avg decision_P1,Data Driven Slow Monople avg decision_P1,0.9428353312470696,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9430915332013388,2
+Data Driven Fast Monopole avg decision_P1,Data Driven Slow Monople avg length_P1,0.9126914690567081,1
+Data Driven Fast Monopole avg decision_P1,Data Driven Slow Monople rate_P1,0.8076796638453083,1
+Data Driven Fast Monopole avg decision_P1,Data Driven Upmu avg decision_P1,0.959190662865336,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Upmu avg delay_P1,0.9591618341551568,1
+Data Driven Fast Monopole avg decision_P1,Data Driven Upmu avg length_P1,0.9358123659579494,-6
+Data Driven Fast Monopole avg decision_P1,Data Driven Upmu rate_P1,0.8864927302139093,2
+Data Driven Fast Monopole avg decision_P1,LIGO Beat Fast rate_P1,0.8342710452937289,-7
+Data Driven Fast Monopole avg decision_P1,Overall Trigger Rate_P1,0.8096569904217064,0
+Data Driven Fast Monopole avg decision_P1,Periodic Calibration Pulser rate_P1,0.8697083345718204,1
+Data Driven Fast Monopole avg decision_P1,SN message delay_P1,0.9556452165241958,-2
+Data Driven Fast Monopole avg decision_P1,SN message rate_P1,0.9070091270920944,-6
+Data Driven Fast Monopole avg decision_P1,SN processing delay_P1,0.8544477820276118,-1
+Data Driven Fast Monopole avg decision_P1,SN triggering delay_P1,0.861266577859777,-7
+Data Driven Fast Monopole avg decision_P1,SNEWS Beat Fast rate_P1,0.8598065370349057,-5
+Data Driven Fast Monopole avg delay_P1,Data Driven Fast Monopole avg length_P1,0.8838940413367544,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Fast Monopole rate_P1,0.8618765894785438,0
+Data Driven Fast Monopole avg delay_P1,Data Driven Horizontal Muon avg decision_P1,0.9648738534289222,1
+Data Driven Fast Monopole avg delay_P1,Data Driven Horizontal Muon avg delay_P1,0.9659456149687771,0
+Data Driven Fast Monopole avg delay_P1,Data Driven Horizontal Muon avg length_P1,0.9432397266216644,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Horizontal Muon rate_P1,0.8658357464459211,0
+Data Driven Fast Monopole avg delay_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9664787258397263,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9676970151357883,0
+Data Driven Fast Monopole avg delay_P1,Data Driven Neutron-Antineutron avg length_P1,0.8323995642606554,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Neutron-Antineutron rate_P1,0.8643993375671397,-3
+Data Driven Fast Monopole avg delay_P1,Data Driven Slow Monople avg decision_P1,0.9422372406283687,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Slow Monople avg delay_P1,0.9427582248221736,2
+Data Driven Fast Monopole avg delay_P1,Data Driven Slow Monople avg length_P1,0.9142681382693758,1
+Data Driven Fast Monopole avg delay_P1,Data Driven Slow Monople rate_P1,0.8100480860254208,1
+Data Driven Fast Monopole avg delay_P1,Data Driven Upmu avg decision_P1,0.9588736594721742,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Upmu avg delay_P1,0.9590258455191817,1
+Data Driven Fast Monopole avg delay_P1,Data Driven Upmu avg length_P1,0.9373842437205827,-6
+Data Driven Fast Monopole avg delay_P1,Data Driven Upmu rate_P1,0.8879253659919893,2
+Data Driven Fast Monopole avg delay_P1,LIGO Beat Fast rate_P1,0.8356921837045209,-7
+Data Driven Fast Monopole avg delay_P1,Overall Trigger Rate_P1,0.812159344037531,0
+Data Driven Fast Monopole avg delay_P1,Periodic Calibration Pulser rate_P1,0.8711457518252521,1
+Data Driven Fast Monopole avg delay_P1,SN message delay_P1,0.9552958354276783,-2
+Data Driven Fast Monopole avg delay_P1,SN message rate_P1,0.9098307759826277,-6
+Data Driven Fast Monopole avg delay_P1,SN processing delay_P1,0.8540212716425337,-1
+Data Driven Fast Monopole avg delay_P1,SN triggering delay_P1,0.8610129082663261,-7
+Data Driven Fast Monopole avg delay_P1,SNEWS Beat Fast rate_P1,0.8612354710696939,-5
+Data Driven Fast Monopole avg length_P1,Data Driven Fast Monopole rate_P1,0.8566848258595329,5
+Data Driven Fast Monopole avg length_P1,Data Driven Horizontal Muon avg decision_P1,0.8859758453066634,7
+Data Driven Fast Monopole avg length_P1,Data Driven Horizontal Muon avg delay_P1,0.8875952370070055,6
+Data Driven Fast Monopole avg length_P1,Data Driven Horizontal Muon avg length_P1,0.9344621385157588,0
+Data Driven Fast Monopole avg length_P1,Data Driven Horizontal Muon rate_P1,0.8764494480068473,6
+Data Driven Fast Monopole avg length_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8885375683411679,0
+Data Driven Fast Monopole avg length_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8893701203637544,6
+Data Driven Fast Monopole avg length_P1,Data Driven Neutron-Antineutron avg length_P1,0.8220924619900295,0
+Data Driven Fast Monopole avg length_P1,Data Driven Neutron-Antineutron rate_P1,0.880627279581998,3
+Data Driven Fast Monopole avg length_P1,Data Driven Slow Monople avg decision_P1,0.8648434008949,0
+Data Driven Fast Monopole avg length_P1,Data Driven Slow Monople avg delay_P1,0.8658500699632615,8
+Data Driven Fast Monopole avg length_P1,Data Driven Slow Monople avg length_P1,0.9007088164983468,7
+Data Driven Fast Monopole avg length_P1,Data Driven Slow Monople rate_P1,0.825677708789246,9
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu avg decision_P1,0.8909258247459131,0
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu avg delay_P1,0.8912894688647617,7
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu avg length_P1,0.9289343000162666,0
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu rate_P1,0.8749353233077872,8
+Data Driven Fast Monopole avg length_P1,LIGO Beat Fast rate_P1,0.818586858854765,-1
+Data Driven Fast Monopole avg length_P1,Overall Trigger Rate_P1,0.8184259926124449,6
+Data Driven Fast Monopole avg length_P1,Periodic Calibration Pulser rate_P1,0.8626476167112798,7
+Data Driven Fast Monopole avg length_P1,SN datablock process rate_P1,0.7029933042682972,-1
+Data Driven Fast Monopole avg length_P1,SN message delay_P1,0.8701645133663527,4
+Data Driven Fast Monopole avg length_P1,SN message rate_P1,0.9162421178690068,0
+Data Driven Fast Monopole avg length_P1,SN processing delay_P1,0.8365791484348541,6
+Data Driven Fast Monopole avg length_P1,SN triggering delay_P1,0.8479549481205483,0
+Data Driven Fast Monopole avg length_P1,SNEWS Beat Fast rate_P1,0.8405148330295952,1
+Data Driven Fast Monopole rate_P1,Data Driven Horizontal Muon avg decision_P1,0.8630658800106498,2
+Data Driven Fast Monopole rate_P1,Data Driven Horizontal Muon avg delay_P1,0.8650993870595725,1
+Data Driven Fast Monopole rate_P1,Data Driven Horizontal Muon avg length_P1,0.9191177425336736,-6
+Data Driven Fast Monopole rate_P1,Data Driven Horizontal Muon rate_P1,0.8835378494793867,0
+Data Driven Fast Monopole rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8643000365527295,-5
+Data Driven Fast Monopole rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8662835193722632,1
+Data Driven Fast Monopole rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.8106509258234935,-6
+Data Driven Fast Monopole rate_P1,Data Driven Neutron-Antineutron rate_P1,0.8859450660033379,-3
+Data Driven Fast Monopole rate_P1,Data Driven Slow Monople avg decision_P1,0.8398760592871832,-5
+Data Driven Fast Monopole rate_P1,Data Driven Slow Monople avg delay_P1,0.842129244814751,3
+Data Driven Fast Monopole rate_P1,Data Driven Slow Monople avg length_P1,0.8884617479885216,1
+Data Driven Fast Monopole rate_P1,Data Driven Slow Monople rate_P1,0.8303511486728413,2
+Data Driven Fast Monopole rate_P1,Data Driven Upmu avg decision_P1,0.8652090831151662,-5
+Data Driven Fast Monopole rate_P1,Data Driven Upmu avg delay_P1,0.866894774173301,2
+Data Driven Fast Monopole rate_P1,Data Driven Upmu avg length_P1,0.9144127173685274,-6
+Data Driven Fast Monopole rate_P1,Data Driven Upmu rate_P1,0.8655409323005762,2
+Data Driven Fast Monopole rate_P1,LIGO Beat Fast rate_P1,0.8057851097530636,-6
+Data Driven Fast Monopole rate_P1,Overall Trigger Rate_P1,0.8278672939581307,0
+Data Driven Fast Monopole rate_P1,Periodic Calibration Pulser rate_P1,0.8502860445408179,2
+Data Driven Fast Monopole rate_P1,SN datablock process rate_P1,0.7016579022008215,-7
+Data Driven Fast Monopole rate_P1,SN message delay_P1,0.8469814007917611,-1
+Data Driven Fast Monopole rate_P1,SN message rate_P1,0.92033846027477,-6
+Data Driven Fast Monopole rate_P1,SN processing delay_P1,0.826153938254469,0
+Data Driven Fast Monopole rate_P1,SN triggering delay_P1,0.8376348290745567,-6
+Data Driven Fast Monopole rate_P1,SNEWS Beat Fast rate_P1,0.8289747340274574,-4
+Data Driven Horizontal Muon avg decision_P1,Data Driven Horizontal Muon avg delay_P1,0.9990805600941665,-1
+Data Driven Horizontal Muon avg decision_P1,Data Driven Horizontal Muon avg length_P1,0.9489643850633396,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Horizontal Muon rate_P1,0.8623071785195242,-1
+Data Driven Horizontal Muon avg decision_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9805505394280798,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9804221239351425,-1
+Data Driven Horizontal Muon avg decision_P1,Data Driven Neutron-Antineutron avg length_P1,0.8378299443948989,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Neutron-Antineutron rate_P1,0.8613132048994961,-4
+Data Driven Horizontal Muon avg decision_P1,Data Driven Slow Monople avg decision_P1,0.956409167384364,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9564387520915044,1
+Data Driven Horizontal Muon avg decision_P1,Data Driven Slow Monople avg length_P1,0.9194338269375195,0
+Data Driven Horizontal Muon avg decision_P1,Data Driven Slow Monople rate_P1,0.8142677909046621,0
+Data Driven Horizontal Muon avg decision_P1,Data Driven Upmu avg decision_P1,0.9706622913777538,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Upmu avg delay_P1,0.9713511585017918,0
+Data Driven Horizontal Muon avg decision_P1,Data Driven Upmu avg length_P1,0.9438397033290231,-7
+Data Driven Horizontal Muon avg decision_P1,Data Driven Upmu rate_P1,0.8961696517884727,0
+Data Driven Horizontal Muon avg decision_P1,LIGO Beat Fast rate_P1,0.8408456522761643,-8
+Data Driven Horizontal Muon avg decision_P1,Overall Trigger Rate_P1,0.8131738200734061,-1
+Data Driven Horizontal Muon avg decision_P1,Periodic Calibration Pulser rate_P1,0.8746431400269499,0
+Data Driven Horizontal Muon avg decision_P1,SN message delay_P1,0.9703411385050236,-3
+Data Driven Horizontal Muon avg decision_P1,SN message rate_P1,0.9092070265249887,-8
+Data Driven Horizontal Muon avg decision_P1,SN processing delay_P1,0.8564216072864754,-3
+Data Driven Horizontal Muon avg decision_P1,SN triggering delay_P1,0.8634530609155505,-10
+Data Driven Horizontal Muon avg decision_P1,SNEWS Beat Fast rate_P1,0.8646616325048078,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Horizontal Muon avg length_P1,0.9507652537918541,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Horizontal Muon rate_P1,0.8660019469342702,0
+Data Driven Horizontal Muon avg delay_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9804684180935563,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9814002521582081,0
+Data Driven Horizontal Muon avg delay_P1,Data Driven Neutron-Antineutron avg length_P1,0.8393133455941396,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Neutron-Antineutron rate_P1,0.8648824922802599,-3
+Data Driven Horizontal Muon avg delay_P1,Data Driven Slow Monople avg decision_P1,0.9560594396791631,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Slow Monople avg delay_P1,0.956263813030008,2
+Data Driven Horizontal Muon avg delay_P1,Data Driven Slow Monople avg length_P1,0.9202028980225598,1
+Data Driven Horizontal Muon avg delay_P1,Data Driven Slow Monople rate_P1,0.8157669824130994,1
+Data Driven Horizontal Muon avg delay_P1,Data Driven Upmu avg decision_P1,0.9706536216419146,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Upmu avg delay_P1,0.9706131903386472,1
+Data Driven Horizontal Muon avg delay_P1,Data Driven Upmu avg length_P1,0.9456435844401507,-6
+Data Driven Horizontal Muon avg delay_P1,Data Driven Upmu rate_P1,0.8961427396763637,1
+Data Driven Horizontal Muon avg delay_P1,LIGO Beat Fast rate_P1,0.8424355824785857,-7
+Data Driven Horizontal Muon avg delay_P1,Overall Trigger Rate_P1,0.816814306086446,0
+Data Driven Horizontal Muon avg delay_P1,Periodic Calibration Pulser rate_P1,0.8752462997475439,1
+Data Driven Horizontal Muon avg delay_P1,SN message delay_P1,0.9702049230348383,-2
+Data Driven Horizontal Muon avg delay_P1,SN message rate_P1,0.9119635275091575,-7
+Data Driven Horizontal Muon avg delay_P1,SN processing delay_P1,0.8562879672825013,0
+Data Driven Horizontal Muon avg delay_P1,SN triggering delay_P1,0.8629878618972822,-9
+Data Driven Horizontal Muon avg delay_P1,SNEWS Beat Fast rate_P1,0.8662993265939558,-5
+Data Driven Horizontal Muon avg length_P1,Data Driven Horizontal Muon rate_P1,0.9361717155618504,6
+Data Driven Horizontal Muon avg length_P1,Data Driven Neutron-Antineutron avg decision_P1,0.9505857673804343,0
+Data Driven Horizontal Muon avg length_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9514611545459848,6
+Data Driven Horizontal Muon avg length_P1,Data Driven Neutron-Antineutron avg length_P1,0.8810239165913841,0
+Data Driven Horizontal Muon avg length_P1,Data Driven Neutron-Antineutron rate_P1,0.9410552370611314,3
+Data Driven Horizontal Muon avg length_P1,Data Driven Slow Monople avg decision_P1,0.9255710744417942,0
+Data Driven Horizontal Muon avg length_P1,Data Driven Slow Monople avg delay_P1,0.9267363742497184,8
+Data Driven Horizontal Muon avg length_P1,Data Driven Slow Monople avg length_P1,0.9646754371989988,7
+Data Driven Horizontal Muon avg length_P1,Data Driven Slow Monople rate_P1,0.8813329413617781,8
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu avg decision_P1,0.9514040797035486,0
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu avg delay_P1,0.9518527128569646,7
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu avg length_P1,0.9938683025841062,0
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu rate_P1,0.9349744814762132,8
+Data Driven Horizontal Muon avg length_P1,LIGO Beat Fast rate_P1,0.8741406447414135,-1
+Data Driven Horizontal Muon avg length_P1,Overall Trigger Rate_P1,0.8754475050093018,6
+Data Driven Horizontal Muon avg length_P1,Periodic Calibration Pulser rate_P1,0.9201001920485007,7
+Data Driven Horizontal Muon avg length_P1,SN datablock process rate_P1,0.7472030044344155,-1
+Data Driven Horizontal Muon avg length_P1,SN message delay_P1,0.9306598080762319,4
+Data Driven Horizontal Muon avg length_P1,SN message rate_P1,0.9792391376857932,0
+Data Driven Horizontal Muon avg length_P1,SN processing delay_P1,0.89081076944243,5
+Data Driven Horizontal Muon avg length_P1,SN triggering delay_P1,0.9026869079076053,0
+Data Driven Horizontal Muon avg length_P1,SNEWS Beat Fast rate_P1,0.8966124962430965,1
+Data Driven Horizontal Muon rate_P1,Data Driven Neutron-Antineutron avg decision_P1,0.8635113202780826,-6
+Data Driven Horizontal Muon rate_P1,Data Driven Neutron-Antineutron avg delay_P1,0.8675142477858875,0
+Data Driven Horizontal Muon rate_P1,Data Driven Neutron-Antineutron avg length_P1,0.822327235170644,-7
+Data Driven Horizontal Muon rate_P1,Data Driven Neutron-Antineutron rate_P1,0.9315790568428157,-3
+Data Driven Horizontal Muon rate_P1,Data Driven Slow Monople avg decision_P1,0.8357384249412912,-6
+Data Driven Horizontal Muon rate_P1,Data Driven Slow Monople avg delay_P1,0.8391806995623666,2
+Data Driven Horizontal Muon rate_P1,Data Driven Slow Monople avg length_P1,0.9031627686862652,1
+Data Driven Horizontal Muon rate_P1,Data Driven Slow Monople rate_P1,0.8696032510269986,2
+Data Driven Horizontal Muon rate_P1,Data Driven Upmu avg decision_P1,0.8725574494606083,-6
+Data Driven Horizontal Muon rate_P1,Data Driven Upmu avg delay_P1,0.8748018193200576,1
+Data Driven Horizontal Muon rate_P1,Data Driven Upmu avg length_P1,0.9306572715782127,-6
+Data Driven Horizontal Muon rate_P1,Data Driven Upmu rate_P1,0.8760366222129539,2
+Data Driven Horizontal Muon rate_P1,LIGO Beat Fast rate_P1,0.8173943468086926,-7
+Data Driven Horizontal Muon rate_P1,Overall Trigger Rate_P1,0.8544952224896437,0
+Data Driven Horizontal Muon rate_P1,Periodic Calibration Pulser rate_P1,0.8653574704032875,2
+Data Driven Horizontal Muon rate_P1,SN datablock process rate_P1,0.7265912048375899,-7
+Data Driven Horizontal Muon rate_P1,SN message delay_P1,0.839667876558648,-2
+Data Driven Horizontal Muon rate_P1,SN message rate_P1,0.9587179965188187,-6
+Data Driven Horizontal Muon rate_P1,SN processing delay_P1,0.8471029613189975,0
+Data Driven Horizontal Muon rate_P1,SN triggering delay_P1,0.8602543481930225,-6
+Data Driven Horizontal Muon rate_P1,SNEWS Beat Fast rate_P1,0.8356758760125416,-4
+Data Driven Michel avg decision_P1,Data Driven Michel avg delay_P1,0.9999978770175666,0
+Data Driven Michel avg decision_P1,Data Driven Michel avg length_P1,0.9075369682461388,0
+Data Driven Michel avg decision_P1,Data Driven Michel rate_P1,0.8954836059101807,0
+Data Driven Michel avg delay_P1,Data Driven Michel avg length_P1,0.9075269569445944,0
+Data Driven Michel avg delay_P1,Data Driven Michel rate_P1,0.8954681624956327,0
+Data Driven Michel avg length_P1,Data Driven Michel rate_P1,0.8602103491094436,0
+Data Driven Moon avg decision_P1,Data Driven Moon avg delay_P1,0.9999999995984173,0
+Data Driven Moon avg decision_P1,Data Driven Moon avg length_P1,0.989779836105744,0
+Data Driven Moon avg decision_P1,Data Driven Moon rate_P1,0.8320563208852518,0
+Data Driven Moon avg delay_P1,Data Driven Moon avg length_P1,0.9897788880657723,0
+Data Driven Moon avg delay_P1,Data Driven Moon rate_P1,0.8320510950239659,0
+Data Driven Moon avg length_P1,Data Driven Moon rate_P1,0.8408642567126285,0
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Neutron-Antineutron avg delay_P1,0.9990236839699888,6
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Neutron-Antineutron avg length_P1,0.838268716420609,0
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Neutron-Antineutron rate_P1,0.8634163752807071,3
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Slow Monople avg decision_P1,0.9599384142979324,0
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9592489425143229,8
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Slow Monople avg length_P1,0.9202218870887908,7
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Slow Monople rate_P1,0.8108238784542403,8
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Upmu avg decision_P1,0.9740502525894555,0
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Upmu avg delay_P1,0.9730114913799344,7
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Upmu avg length_P1,0.9454109623960493,0
+Data Driven Neutron-Antineutron avg decision_P1,Data Driven Upmu rate_P1,0.8961434799992422,7
+Data Driven Neutron-Antineutron avg decision_P1,LIGO Beat Fast rate_P1,0.8418382115959614,-1
+Data Driven Neutron-Antineutron avg decision_P1,Overall Trigger Rate_P1,0.8147086655237126,6
+Data Driven Neutron-Antineutron avg decision_P1,Periodic Calibration Pulser rate_P1,0.8742875754558624,7
+Data Driven Neutron-Antineutron avg decision_P1,SN message delay_P1,0.9734345661389564,4
+Data Driven Neutron-Antineutron avg decision_P1,SN message rate_P1,0.9119521096521501,0
+Data Driven Neutron-Antineutron avg decision_P1,SN processing delay_P1,0.8556665989984316,5
+Data Driven Neutron-Antineutron avg decision_P1,SN triggering delay_P1,0.8626885409764166,0
+Data Driven Neutron-Antineutron avg decision_P1,SNEWS Beat Fast rate_P1,0.8653917735255203,1
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Neutron-Antineutron avg length_P1,0.838978619993076,-6
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Neutron-Antineutron rate_P1,0.8673027887878967,-3
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Slow Monople avg decision_P1,0.9587356923737194,-6
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Slow Monople avg delay_P1,0.9589998688081076,2
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Slow Monople avg length_P1,0.9220616068948456,1
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Slow Monople rate_P1,0.8138931007963776,2
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Upmu avg decision_P1,0.9731995666671913,-6
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Upmu avg delay_P1,0.9731161199313261,1
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Upmu avg length_P1,0.9462948736313797,-6
+Data Driven Neutron-Antineutron avg delay_P1,Data Driven Upmu rate_P1,0.8970140224536118,1
+Data Driven Neutron-Antineutron avg delay_P1,LIGO Beat Fast rate_P1,0.8434663013766197,-7
+Data Driven Neutron-Antineutron avg delay_P1,Overall Trigger Rate_P1,0.818550634906688,0
+Data Driven Neutron-Antineutron avg delay_P1,Periodic Calibration Pulser rate_P1,0.8759470076766035,1
+Data Driven Neutron-Antineutron avg delay_P1,SN message delay_P1,0.9731404861074827,-2
+Data Driven Neutron-Antineutron avg delay_P1,SN message rate_P1,0.9143437152220487,-7
+Data Driven Neutron-Antineutron avg delay_P1,SN processing delay_P1,0.8553789630530965,0
+Data Driven Neutron-Antineutron avg delay_P1,SN triggering delay_P1,0.8625795168479456,-7
+Data Driven Neutron-Antineutron avg delay_P1,SNEWS Beat Fast rate_P1,0.867051601896238,-5
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Neutron-Antineutron rate_P1,0.8265667153669404,3
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Slow Monople avg decision_P1,0.816840135046022,0
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Slow Monople avg delay_P1,0.8179117693575442,8
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Slow Monople avg length_P1,0.8506862354287276,7
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Slow Monople rate_P1,0.7754865757768461,8
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu avg decision_P1,0.8402826939787843,0
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu avg delay_P1,0.8407260542492794,7
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu avg length_P1,0.8756821840563263,0
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu rate_P1,0.8256864130195862,8
+Data Driven Neutron-Antineutron avg length_P1,LIGO Beat Fast rate_P1,0.7755867151025342,-1
+Data Driven Neutron-Antineutron avg length_P1,Overall Trigger Rate_P1,0.7660406969618978,6
+Data Driven Neutron-Antineutron avg length_P1,Periodic Calibration Pulser rate_P1,0.8116467353341391,8
+Data Driven Neutron-Antineutron avg length_P1,SN message delay_P1,0.8215864789631484,4
+Data Driven Neutron-Antineutron avg length_P1,SN message rate_P1,0.8618471958165751,0
+Data Driven Neutron-Antineutron avg length_P1,SN processing delay_P1,0.7855355107678931,5
+Data Driven Neutron-Antineutron avg length_P1,SN triggering delay_P1,0.795848405684446,-1
+Data Driven Neutron-Antineutron avg length_P1,SNEWS Beat Fast rate_P1,0.791186718281845,2
+Data Driven Neutron-Antineutron rate_P1,Data Driven Slow Monople avg decision_P1,0.8343287822598363,-3
+Data Driven Neutron-Antineutron rate_P1,Data Driven Slow Monople avg delay_P1,0.8383318577121468,5
+Data Driven Neutron-Antineutron rate_P1,Data Driven Slow Monople avg length_P1,0.9086324851581127,4
+Data Driven Neutron-Antineutron rate_P1,Data Driven Slow Monople rate_P1,0.8789301000393926,5
+Data Driven Neutron-Antineutron rate_P1,Data Driven Upmu avg decision_P1,0.8698180634173399,-3
+Data Driven Neutron-Antineutron rate_P1,Data Driven Upmu avg delay_P1,0.8727971732859314,4
+Data Driven Neutron-Antineutron rate_P1,Data Driven Upmu avg length_P1,0.9347930527663783,-3
+Data Driven Neutron-Antineutron rate_P1,Data Driven Upmu rate_P1,0.8791303519512981,5
+Data Driven Neutron-Antineutron rate_P1,LIGO Beat Fast rate_P1,0.8182542840463686,-3
+Data Driven Neutron-Antineutron rate_P1,Overall Trigger Rate_P1,0.8658480956019257,3
+Data Driven Neutron-Antineutron rate_P1,Periodic Calibration Pulser rate_P1,0.8675382291767789,5
+Data Driven Neutron-Antineutron rate_P1,SN datablock process rate_P1,0.7280741942484743,-4
+Data Driven Neutron-Antineutron rate_P1,SN message delay_P1,0.8398302997335076,0
+Data Driven Neutron-Antineutron rate_P1,SN message rate_P1,0.9662082563458814,-3
+Data Driven Neutron-Antineutron rate_P1,SN processing delay_P1,0.8366808084014135,3
+Data Driven Neutron-Antineutron rate_P1,SN triggering delay_P1,0.8513551459064875,-2
+Data Driven Neutron-Antineutron rate_P1,SNEWS Beat Fast rate_P1,0.8366176929473386,-2
+Data Driven Numu avg decision_P1,Data Driven Numu avg delay_P1,0.9999999269075337,0
+Data Driven Slow Monople avg decision_P1,Data Driven Slow Monople avg delay_P1,0.9990281068858752,8
+Data Driven Slow Monople avg decision_P1,Data Driven Slow Monople avg length_P1,0.8939086177279015,7
+Data Driven Slow Monople avg decision_P1,Data Driven Slow Monople rate_P1,0.7844806379631194,8
+Data Driven Slow Monople avg decision_P1,Data Driven Upmu avg decision_P1,0.9504421718568908,0
+Data Driven Slow Monople avg decision_P1,Data Driven Upmu avg delay_P1,0.9492208854415445,7
+Data Driven Slow Monople avg decision_P1,Data Driven Upmu avg length_P1,0.9202596117786591,0
+Data Driven Slow Monople avg decision_P1,Data Driven Upmu rate_P1,0.8759680545266777,7
+Data Driven Slow Monople avg decision_P1,LIGO Beat Fast rate_P1,0.8173497045637013,-2
+Data Driven Slow Monople avg decision_P1,Overall Trigger Rate_P1,0.7878339163029202,6
+Data Driven Slow Monople avg decision_P1,Periodic Calibration Pulser rate_P1,0.8511550444470821,7
+Data Driven Slow Monople avg decision_P1,SN message delay_P1,0.9499725821121077,4
+Data Driven Slow Monople avg decision_P1,SN message rate_P1,0.8821785747088245,0
+Data Driven Slow Monople avg decision_P1,SN processing delay_P1,0.8348681700375001,5
+Data Driven Slow Monople avg decision_P1,SN triggering delay_P1,0.8411687811239069,-1
+Data Driven Slow Monople avg decision_P1,SNEWS Beat Fast rate_P1,0.8416809263805087,1
+Data Driven Slow Monople avg delay_P1,Data Driven Slow Monople avg length_P1,0.8962480785112245,-1
+Data Driven Slow Monople avg delay_P1,Data Driven Slow Monople rate_P1,0.7889937487038642,0
+Data Driven Slow Monople avg delay_P1,Data Driven Upmu avg decision_P1,0.9497736763686302,-8
+Data Driven Slow Monople avg delay_P1,Data Driven Upmu avg delay_P1,0.9495349963045253,-1
+Data Driven Slow Monople avg delay_P1,Data Driven Upmu avg length_P1,0.9214300660785771,-8
+Data Driven Slow Monople avg delay_P1,Data Driven Upmu rate_P1,0.87726406485654,-1
+Data Driven Slow Monople avg delay_P1,LIGO Beat Fast rate_P1,0.8191166378887126,-10
+Data Driven Slow Monople avg delay_P1,Overall Trigger Rate_P1,0.7910201368114654,-2
+Data Driven Slow Monople avg delay_P1,Periodic Calibration Pulser rate_P1,0.8530010744170461,-1
+Data Driven Slow Monople avg delay_P1,SN message delay_P1,0.9496190622086933,-4
+Data Driven Slow Monople avg delay_P1,SN message rate_P1,0.8849831402448415,-8
+Data Driven Slow Monople avg delay_P1,SN processing delay_P1,0.8344029996465212,-3
+Data Driven Slow Monople avg delay_P1,SN triggering delay_P1,0.8412358446296726,-9
+Data Driven Slow Monople avg delay_P1,SNEWS Beat Fast rate_P1,0.8434081741394401,-7
+Data Driven Slow Monople avg length_P1,Data Driven Slow Monople rate_P1,0.8535776658985446,1
+Data Driven Slow Monople avg length_P1,Data Driven Upmu avg decision_P1,0.9199627387937168,-7
+Data Driven Slow Monople avg length_P1,Data Driven Upmu avg delay_P1,0.9223574237575022,0
+Data Driven Slow Monople avg length_P1,Data Driven Upmu avg length_P1,0.9604495830044831,-7
+Data Driven Slow Monople avg length_P1,Data Driven Upmu rate_P1,0.902930881757889,1
+Data Driven Slow Monople avg length_P1,LIGO Beat Fast rate_P1,0.841155378083493,-9
+Data Driven Slow Monople avg length_P1,Overall Trigger Rate_P1,0.8461001347191875,-1
+Data Driven Slow Monople avg length_P1,Periodic Calibration Pulser rate_P1,0.8892051638867615,0
+Data Driven Slow Monople avg length_P1,SN datablock process rate_P1,0.7206721630168896,-7
+Data Driven Slow Monople avg length_P1,SN message delay_P1,0.9002523354957164,-4
+Data Driven Slow Monople avg length_P1,SN message rate_P1,0.9445703690633199,-7
+Data Driven Slow Monople avg length_P1,SN processing delay_P1,0.8595398815208939,-2
+Data Driven Slow Monople avg length_P1,SN triggering delay_P1,0.8706604981724495,-8
+Data Driven Slow Monople avg length_P1,SNEWS Beat Fast rate_P1,0.8674349938331749,-6
+Data Driven Slow Monople rate_P1,Data Driven Upmu avg decision_P1,0.819360923491603,-8
+Data Driven Slow Monople rate_P1,Data Driven Upmu avg delay_P1,0.8216868743480005,-1
+Data Driven Slow Monople rate_P1,Data Driven Upmu avg length_P1,0.875663337810242,-8
+Data Driven Slow Monople rate_P1,Data Driven Upmu rate_P1,0.8215495028797033,0
+Data Driven Slow Monople rate_P1,LIGO Beat Fast rate_P1,0.7635165016750302,-8
+Data Driven Slow Monople rate_P1,Overall Trigger Rate_P1,0.8048597209039596,-2
+Data Driven Slow Monople rate_P1,Periodic Calibration Pulser rate_P1,0.8162187849467545,0
+Data Driven Slow Monople rate_P1,SN message delay_P1,0.7889540692585211,-3
+Data Driven Slow Monople rate_P1,SN message rate_P1,0.9034126104678504,-8
+Data Driven Slow Monople rate_P1,SN processing delay_P1,0.7922873760045342,-2
+Data Driven Slow Monople rate_P1,SN triggering delay_P1,0.8053892899914756,-9
+Data Driven Slow Monople rate_P1,SNEWS Beat Fast rate_P1,0.7889576046124492,-6
+Data Driven Sun avg decision_P1,Data Driven Sun avg delay_P1,0.9999995319388288,0
+Data Driven Sun avg decision_P1,Data Driven Sun avg length_P1,0.9847713631417457,0
+Data Driven Sun avg decision_P1,Data Driven Sun rate_P1,0.9012961871948871,0
+Data Driven Sun avg delay_P1,Data Driven Sun avg length_P1,0.9847535360025239,0
+Data Driven Sun avg delay_P1,Data Driven Sun rate_P1,0.9013124929708312,0
+Data Driven Sun avg length_P1,Data Driven Sun rate_P1,0.902038702182366,0
+Data Driven Upmu avg decision_P1,Data Driven Upmu avg delay_P1,0.9990633601844336,7
+Data Driven Upmu avg decision_P1,Data Driven Upmu avg length_P1,0.945959785233863,0
+Data Driven Upmu avg decision_P1,Data Driven Upmu rate_P1,0.895970285467458,7
+Data Driven Upmu avg decision_P1,LIGO Beat Fast rate_P1,0.838575453467142,-1
+Data Driven Upmu avg decision_P1,Overall Trigger Rate_P1,0.8169006523173515,5
+Data Driven Upmu avg decision_P1,Periodic Calibration Pulser rate_P1,0.8746903968086757,7
+Data Driven Upmu avg decision_P1,SN message delay_P1,0.9616147680491518,4
+Data Driven Upmu avg decision_P1,SN message rate_P1,0.9177085106336543,0
+Data Driven Upmu avg decision_P1,SN processing delay_P1,0.8624429690592271,6
+Data Driven Upmu avg decision_P1,SN triggering delay_P1,0.8702839167450908,0
+Data Driven Upmu avg decision_P1,SNEWS Beat Fast rate_P1,0.8631326633571346,1
+Data Driven Upmu avg delay_P1,Data Driven Upmu avg length_P1,0.9464161561790151,-7
+Data Driven Upmu avg delay_P1,Data Driven Upmu rate_P1,0.8977798709782925,0
+Data Driven Upmu avg delay_P1,LIGO Beat Fast rate_P1,0.8397996929312431,-8
+Data Driven Upmu avg delay_P1,Overall Trigger Rate_P1,0.8190417040146483,-2
+Data Driven Upmu avg delay_P1,Periodic Calibration Pulser rate_P1,0.8770110676761942,0
+Data Driven Upmu avg delay_P1,SN datablock process rate_P1,0.7008786325268969,-8
+Data Driven Upmu avg delay_P1,SN message delay_P1,0.9612715060469412,-3
+Data Driven Upmu avg delay_P1,SN message rate_P1,0.9192391735393735,-7
+Data Driven Upmu avg delay_P1,SN processing delay_P1,0.8621259616352457,-1
+Data Driven Upmu avg delay_P1,SN triggering delay_P1,0.869459075899401,-7
+Data Driven Upmu avg delay_P1,SNEWS Beat Fast rate_P1,0.864273484395984,-6
+Data Driven Upmu avg length_P1,Data Driven Upmu rate_P1,0.9287761379617696,8
+Data Driven Upmu avg length_P1,LIGO Beat Fast rate_P1,0.8690095738564233,-1
+Data Driven Upmu avg length_P1,Overall Trigger Rate_P1,0.8699558389724307,6
+Data Driven Upmu avg length_P1,Periodic Calibration Pulser rate_P1,0.9150206811195563,7
+Data Driven Upmu avg length_P1,SN datablock process rate_P1,0.7433724806555784,0
+Data Driven Upmu avg length_P1,SN message delay_P1,0.9254546519523544,4
+Data Driven Upmu avg length_P1,SN message rate_P1,0.973250377493024,0
+Data Driven Upmu avg length_P1,SN processing delay_P1,0.8843072455301257,5
+Data Driven Upmu avg length_P1,SN triggering delay_P1,0.8962514320933673,0
+Data Driven Upmu avg length_P1,SNEWS Beat Fast rate_P1,0.8917320053437345,1
+Data Driven Upmu rate_P1,LIGO Beat Fast rate_P1,0.8159385765618933,-8
+Data Driven Upmu rate_P1,Overall Trigger Rate_P1,0.8324617640000699,-2
+Data Driven Upmu rate_P1,Periodic Calibration Pulser rate_P1,0.8645608846062199,0
+Data Driven Upmu rate_P1,SN message delay_P1,0.8841440429773472,-3
+Data Driven Upmu rate_P1,SN message rate_P1,0.9159252074242017,-8
+Data Driven Upmu rate_P1,SN processing delay_P1,0.8317103397501745,-3
+Data Driven Upmu rate_P1,SN triggering delay_P1,0.8419427659657046,-9
+Data Driven Upmu rate_P1,SNEWS Beat Fast rate_P1,0.8386967200070958,-6
+LIGO Beat Fast rate_P1,Overall Trigger Rate_P1,0.7879852343584265,7
+LIGO Beat Fast rate_P1,Periodic Calibration Pulser rate_P1,0.9336966108742402,8
+LIGO Beat Fast rate_P1,SN message delay_P1,0.8351794839952974,6
+LIGO Beat Fast rate_P1,SN message rate_P1,0.8558346981204373,0
+LIGO Beat Fast rate_P1,SN processing delay_P1,0.7769191090034554,6
+LIGO Beat Fast rate_P1,SN triggering delay_P1,0.7872657966749104,0
+LIGO Beat Fast rate_P1,SNEWS Beat Fast rate_P1,0.9149579953028982,2
+Overall Trigger Rate_P1,Periodic Calibration Pulser rate_P1,0.8373514729926687,2
+Overall Trigger Rate_P1,SN message delay_P1,0.7968289872047375,-1
+Overall Trigger Rate_P1,SN message rate_P1,0.8838311499750927,-6
+Overall Trigger Rate_P1,SN processing delay_P1,0.7726023579027778,0
+Overall Trigger Rate_P1,SN triggering delay_P1,0.7843554778008823,-6
+Overall Trigger Rate_P1,SNEWS Beat Fast rate_P1,0.8109488517170585,-4
+Periodic Calibration Pulser rate_P1,SN message delay_P1,0.8650904980407986,-2
+Periodic Calibration Pulser rate_P1,SN message rate_P1,0.9034535037668195,-8
+Periodic Calibration Pulser rate_P1,SN processing delay_P1,0.8201931766275835,-2
+Periodic Calibration Pulser rate_P1,SN triggering delay_P1,0.8326289146146844,-9
+Periodic Calibration Pulser rate_P1,SNEWS Beat Fast rate_P1,0.9637584233214834,-6
+SN datablock process rate_P1,SN message rate_P1,0.7539746439817258,2
+SN datablock process rate_P1,SN processing delay_P1,0.8070736061706556,7
+SN datablock process rate_P1,SN triggering delay_P1,0.8061186507947761,1
+SN message delay_P1,SN message rate_P1,0.8894063111956068,-4
+SN message delay_P1,SN processing delay_P1,0.836966611918988,2
+SN message delay_P1,SN triggering delay_P1,0.8433566103312725,-4
+SN message delay_P1,SNEWS Beat Fast rate_P1,0.8613652432088037,-4
+SN message rate_P1,SN processing delay_P1,0.8772959428171482,6
+SN message rate_P1,SN triggering delay_P1,0.8917497716481699,0
+SN message rate_P1,SNEWS Beat Fast rate_P1,0.8784140583402985,2
+SN processing delay_P1,SN triggering delay_P1,0.995685304163025,-6
+SN processing delay_P1,SNEWS Beat Fast rate_P1,0.8036356312049769,-3
+SN triggering delay_P1,SNEWS Beat Fast rate_P1,0.8163329666226716,3
+SNEWS Trigger Avg Delay_P1,SNEWS Trigger Max Delay_P1,0.9991259610251529,-1
+SNEWS Trigger Avg Delay_P1,SNEWS Trigger Std Delay_P1,0.7342436176722483,-4
+SNEWS Trigger Max Delay_P1,SNEWS Trigger Std Delay_P1,0.7366117493345075,-3
+Spill Trigger Avg Delay_P1,Spill Trigger Max Delay_P1,0.80344139944605,0
+Spill Trigger Max Delay_P1,Spill Trigger Std Delay_P1,0.7852019994742212,2

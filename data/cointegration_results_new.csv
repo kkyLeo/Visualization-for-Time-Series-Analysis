@@ -1,0 +1,29 @@
+Field1,Field2,Score,P-Value
+Data Driven Moon avg decision_P1,Data Driven Moon avg delay_P1,-inf,0.0
+Data Driven Moon avg decision_P1,Data Driven Moon avg length_P1,-14.560321002403429,4.2696640990821315e-26
+Data Driven Moon avg decision_P1,Data Driven Moon rate_P1,-2.135098165337416,0.4580399723562624
+Data Driven Moon avg decision_P1,Data Driven Sun avg decision_P1,-1.679035814494869,0.6864098621979493
+Data Driven Moon avg decision_P1,Data Driven Sun avg delay_P1,-1.6790649852421673,0.6863967368541357
+Data Driven Moon avg decision_P1,Data Driven Sun avg length_P1,-1.678324933219395,0.6867296347712355
+Data Driven Moon avg decision_P1,Data Driven Sun rate_P1,-1.7105760818966502,0.672055774311119
+Data Driven Moon avg delay_P1,Data Driven Moon avg length_P1,-14.561259352046742,4.2551599691121384e-26
+Data Driven Moon avg delay_P1,Data Driven Moon rate_P1,-2.135087912976422,0.45804531787887104
+Data Driven Moon avg delay_P1,Data Driven Sun avg decision_P1,-1.679035480299833,0.6864100125669751
+Data Driven Moon avg delay_P1,Data Driven Sun avg delay_P1,-1.6790646582315996,0.6863968839937308
+Data Driven Moon avg delay_P1,Data Driven Sun avg length_P1,-1.678323343459811,0.6867303496970026
+Data Driven Moon avg delay_P1,Data Driven Sun rate_P1,-1.710579175313664,0.6720543508160963
+Data Driven Moon avg length_P1,Data Driven Moon rate_P1,-1.991457519366846,0.5330156504294994
+Data Driven Moon avg length_P1,Data Driven Sun avg decision_P1,-1.7014942138886562,0.6762218987145263
+Data Driven Moon avg length_P1,Data Driven Sun avg delay_P1,-1.701235247281107,0.676340309006462
+Data Driven Moon avg length_P1,Data Driven Sun avg length_P1,-1.696080833843014,0.6786926356371857
+Data Driven Moon avg length_P1,Data Driven Sun rate_P1,-1.69296354326469,0.6801111116955663
+Data Driven Moon rate_P1,Data Driven Sun avg decision_P1,-1.5531380829297943,0.7402574000419508
+Data Driven Moon rate_P1,Data Driven Sun avg delay_P1,-1.5528697071950193,0.7403659059947311
+Data Driven Moon rate_P1,Data Driven Sun avg length_P1,-1.5885530091523534,0.7256972977423434
+Data Driven Moon rate_P1,Data Driven Sun rate_P1,-1.4956801112850435,0.7628448382986772
+Data Driven Sun avg decision_P1,Data Driven Sun avg delay_P1,-inf,0.0
+Data Driven Sun avg decision_P1,Data Driven Sun avg length_P1,-11.430415528721198,7.846692734244523e-20
+Data Driven Sun avg decision_P1,Data Driven Sun rate_P1,-3.485173707874779,0.033732533985482614
+Data Driven Sun avg delay_P1,Data Driven Sun avg length_P1,-11.422233134539404,8.201970453950335e-20
+Data Driven Sun avg delay_P1,Data Driven Sun rate_P1,-3.490130866647068,0.03328035086094463
+Data Driven Sun avg length_P1,Data Driven Sun rate_P1,-2.5286045083202064,0.26660139019761014

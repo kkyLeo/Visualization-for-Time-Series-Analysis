@@ -1,0 +1,325 @@
+Field1,Field2,DTW_Distance
+Accelerator PPS Trigger rate_P1,DAQ Status Block rate_P1,115.37883959047234
+Accelerator PPS Trigger rate_P1,Data Driven Contained Vertex avg length_P1,118.15623266666552
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,6341.695671466613
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole Neural Network Variant 2 rate_P1,3551.239016653358
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole Neural Network rate_P1,13633.24999573331
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole avg length_P1,221.2014175999964
+Accelerator PPS Trigger rate_P1,Data Driven Fast Monopole rate_P1,10150.239152266644
+Accelerator PPS Trigger rate_P1,Data Driven Horizontal Muon avg length_P1,5312.288503733384
+Accelerator PPS Trigger rate_P1,Data Driven Neutron-Antineutron avg length_P1,7946.416220133351
+Accelerator PPS Trigger rate_P1,Data Driven Numu avg length_P1,2450.227813477752
+Accelerator PPS Trigger rate_P1,Data Driven Slow Monople rate_P1,6237.394253853325
+Accelerator PPS Trigger rate_P1,Data Driven Sun rate_P1,13013.962006959977
+Accelerator PPS Trigger rate_P1,Data Driven Supernova avg delay_P1,5296.058454933283
+Accelerator PPS Trigger rate_P1,Data Driven Supernova rate_P1,5296.0258849196725
+Accelerator PPS Trigger rate_P1,Data Driven Upmu avg length_P1,122.29841902222093
+Accelerator PPS Trigger rate_P1,Data Driven Upmu rate_P1,14636.964617866724
+Accelerator PPS Trigger rate_P1,LIGO Beat Fast rate_P1,5207.88810222331
+Accelerator PPS Trigger rate_P1,LIGO Beat Slow rate_P1,5293.253316973276
+Accelerator PPS Trigger rate_P1,LIGO Trigger rate_P1,5296.025650753552
+Accelerator PPS Trigger rate_P1,NuMI Beam Spill Trigger rate_P1,1747.3536871333254
+Accelerator PPS Trigger rate_P1,SN bg update rate_P1,5294.068341663252
+Accelerator PPS Trigger rate_P1,SN datablock process rate_P1,819.4644823241293
+Accelerator PPS Trigger rate_P1,SNEWS Beat Fast rate_P1,5207.831825319972
+Accelerator PPS Trigger rate_P1,SNEWS Beat Slow rate_P1,5296.0495902451285
+Accelerator PPS Trigger rate_P1,Supernova Cross-trigger rate_P1,5295.865286003323
+DAQ Status Block rate_P1,Data Driven Contained Vertex avg length_P1,4.059674533333438
+DAQ Status Block rate_P1,Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,6341.756329733322
+DAQ Status Block rate_P1,Data Driven Fast Monopole Neural Network Variant 2 rate_P1,3559.6799062733785
+DAQ Status Block rate_P1,Data Driven Fast Monopole Neural Network rate_P1,13634.1538236
+DAQ Status Block rate_P1,Data Driven Fast Monopole avg length_P1,114.85028773332886
+DAQ Status Block rate_P1,Data Driven Fast Monopole rate_P1,10150.325885200007
+DAQ Status Block rate_P1,Data Driven Horizontal Muon avg length_P1,5315.829964666686
+DAQ Status Block rate_P1,Data Driven Neutron-Antineutron avg length_P1,7948.605604533323
+DAQ Status Block rate_P1,Data Driven Numu avg length_P1,2460.7459731999197
+DAQ Status Block rate_P1,Data Driven Slow Monople rate_P1,6242.798861819992
+DAQ Status Block rate_P1,Data Driven Sun rate_P1,13016.471364093322
+DAQ Status Block rate_P1,Data Driven Supernova avg delay_P1,5295.154627066649
+DAQ Status Block rate_P1,Data Driven Supernova rate_P1,5295.12205705302
+DAQ Status Block rate_P1,Data Driven Upmu avg length_P1,8.530408266666862
+DAQ Status Block rate_P1,Data Driven Upmu rate_P1,14636.119366000032
+DAQ Status Block rate_P1,LIGO Beat Fast rate_P1,5207.006489756623
+DAQ Status Block rate_P1,LIGO Beat Slow rate_P1,5292.349489106623
+DAQ Status Block rate_P1,LIGO Trigger rate_P1,5295.121822886903
+DAQ Status Block rate_P1,NuMI Beam Spill Trigger rate_P1,1746.8847044666677
+DAQ Status Block rate_P1,SN bg update rate_P1,5293.461609296622
+DAQ Status Block rate_P1,SN datablock process rate_P1,884.8699977780918
+DAQ Status Block rate_P1,SNEWS Beat Fast rate_P1,5206.839182553304
+DAQ Status Block rate_P1,SNEWS Beat Slow rate_P1,5295.14576237849
+DAQ Status Block rate_P1,Supernova Cross-trigger rate_P1,5294.96168897266
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,6282.533333333333
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole Neural Network Variant 2 rate_P1,5357.711000099846
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole Neural Network rate_P1,13693.437170666655
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole avg length_P1,116.3333333333333
+Data Driven Contained Vertex avg length_P1,Data Driven Fast Monopole rate_P1,10112.373096399982
+Data Driven Contained Vertex avg length_P1,Data Driven Horizontal Muon avg length_P1,5237.800000000001
+Data Driven Contained Vertex avg length_P1,Data Driven Neutron-Antineutron avg length_P1,7942.666666666664
+Data Driven Contained Vertex avg length_P1,Data Driven Numu avg length_P1,2521.4
+Data Driven Contained Vertex avg length_P1,Data Driven Slow Monople rate_P1,6235.87386704002
+Data Driven Contained Vertex avg length_P1,Data Driven Sun rate_P1,12953.660552693336
+Data Driven Contained Vertex avg length_P1,Data Driven Supernova avg delay_P1,5235.866666666667
+Data Driven Contained Vertex avg length_P1,Data Driven Supernova rate_P1,5235.834096652794
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu avg length_P1,8.86666666666666
+Data Driven Contained Vertex avg length_P1,Data Driven Upmu rate_P1,14599.167348266668
+Data Driven Contained Vertex avg length_P1,LIGO Beat Fast rate_P1,5149.87374143656
+Data Driven Contained Vertex avg length_P1,LIGO Beat Slow rate_P1,5233.061528706397
+Data Driven Contained Vertex avg length_P1,LIGO Trigger rate_P1,5235.833862487085
+Data Driven Contained Vertex avg length_P1,NuMI Beam Spill Trigger rate_P1,1787.1569015999794
+Data Driven Contained Vertex avg length_P1,SN bg update rate_P1,5234.021466816508
+Data Driven Contained Vertex avg length_P1,SN datablock process rate_P1,880.2490125400032
+Data Driven Contained Vertex avg length_P1,SNEWS Beat Fast rate_P1,5149.311362133221
+Data Driven Contained Vertex avg length_P1,SNEWS Beat Slow rate_P1,5235.857801978616
+Data Driven Contained Vertex avg length_P1,Supernova Cross-trigger rate_P1,5235.681923250828
+Data Driven Contained Vertex rate_P1,Data Driven Michel avg length_P1,14139.81506863354
+Data Driven Contained Vertex rate_P1,Data Driven Neutron-Antineutron rate_P1,10422.70842168408
+Data Driven Contained Vertex rate_P1,Periodic Calibration Pulser rate_P1,3648.3857643285655
+Data Driven Energy rate_P1,Data Driven Fast Monopole Neural Network rate_P1,9838.932557826663
+Data Driven Energy rate_P1,Data Driven Fast Monopole rate_P1,9932.346417839992
+Data Driven Energy rate_P1,Data Driven Horizontal Muon rate_P1,4012.7704285638106
+Data Driven Energy rate_P1,Data Driven Moon rate_P1,6337.474139005906
+Data Driven Energy rate_P1,Data Driven Neutron-Antineutron avg length_P1,12489.2963566266
+Data Driven Energy rate_P1,Data Driven Numu rate_P1,4998.922716826667
+Data Driven Energy rate_P1,Data Driven Slow Monople rate_P1,14333.339500262864
+Data Driven Energy rate_P1,Data Driven Upmu rate_P1,4944.314346582211
+Data Driven Fast Monopole Neural Network Variant 2 avg decision_P1,Data Driven Fast Monopole Neural Network Variant 2 avg delay_P1,1206.6219999999755
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Fast Monopole Neural Network Variant 2 rate_P1,535.0973072133335
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Fast Monopole avg length_P1,6383.999999999996
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Horizontal Muon avg length_P1,11246.733333333326
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Moon rate_P1,9626.151019717328
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Neutron-Antineutron avg length_P1,13943.73333333332
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Numu avg length_P1,8744.599999999993
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Slow Monople rate_P1,12171.32352515999
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Sun rate_P1,6732.169477479992
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Supernova avg delay_P1,1312.6666666666663
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Supernova rate_P1,1312.664838323868
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Data Driven Upmu avg length_P1,6283.799999999999
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,LIGO Beat Fast rate_P1,1396.0202703878265
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,LIGO Beat Slow rate_P1,1312.509198086668
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,LIGO Trigger rate_P1,1312.6648251787678
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,NuMI Beam Spill Trigger rate_P1,5440.504547599952
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,SN bg update rate_P1,1312.6204025666666
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,SN datablock process rate_P1,6279.085105326645
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,SNEWS Beat Fast rate_P1,1396.0947785467154
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,SNEWS Beat Slow rate_P1,1312.6661690405654
+Data Driven Fast Monopole Neural Network Variant 2 avg length_P1,Supernova Cross-trigger rate_P1,1312.6569037806655
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Fast Monopole avg length_P1,5505.64794035319
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Fast Monopole rate_P1,14972.031685186614
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Horizontal Muon avg length_P1,11227.599593786668
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Moon rate_P1,14359.748683863974
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Neutron-Antineutron avg length_P1,12154.45177813321
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Numu avg length_P1,9111.322506913324
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Slow Monople rate_P1,11766.93670569998
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Sun rate_P1,12083.601582293351
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Supernova avg delay_P1,1723.0593534799996
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Supernova rate_P1,1723.0575251372
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Data Driven Upmu avg length_P1,5140.096690373155
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,LIGO Beat Fast rate_P1,1806.4129572011364
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,LIGO Beat Slow rate_P1,1722.9018849
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,LIGO Trigger rate_P1,1723.0575119921
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,NuMI Beam Spill Trigger rate_P1,5819.856556779946
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,SN bg update rate_P1,1723.0130893799997
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,SN datablock process rate_P1,5690.666492659994
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,SNEWS Beat Fast rate_P1,1806.4874653600252
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,SNEWS Beat Slow rate_P1,1723.0588558538998
+Data Driven Fast Monopole Neural Network Variant 2 rate_P1,Supernova Cross-trigger rate_P1,1723.0495905939993
+Data Driven Fast Monopole Neural Network avg decision_P1,Data Driven Fast Monopole Neural Network avg delay_P1,2914.6320000002443
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Fast Monopole avg length_P1,13579.168661999973
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Fast Monopole rate_P1,3821.903121288868
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Horizontal Muon avg length_P1,8464.082382666682
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Neutron-Antineutron avg length_P1,5285.955220444399
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Numu avg length_P1,11123.30361399999
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Numu rate_P1,11114.574932666625
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Slow Monople rate_P1,6954.616948897137
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Upmu avg length_P1,13686.691650666657
+Data Driven Fast Monopole Neural Network rate_P1,Data Driven Upmu rate_P1,4205.788987399988
+Data Driven Fast Monopole Neural Network rate_P1,NuMI Beam Spill Trigger rate_P1,14638.848501866736
+Data Driven Fast Monopole Neural Network rate_P1,SN datablock process rate_P1,13667.368120873363
+Data Driven Fast Monopole avg length_P1,Data Driven Fast Monopole rate_P1,10006.276636799998
+Data Driven Fast Monopole avg length_P1,Data Driven Horizontal Muon avg length_P1,5129.399999999971
+Data Driven Fast Monopole avg length_P1,Data Driven Neutron-Antineutron avg length_P1,7802.19999999998
+Data Driven Fast Monopole avg length_P1,Data Driven Numu avg length_P1,2156.9333333333457
+Data Driven Fast Monopole avg length_P1,Data Driven Slow Monople rate_P1,5844.8270736399845
+Data Driven Fast Monopole avg length_P1,Data Driven Sun rate_P1,12827.463714159969
+Data Driven Fast Monopole avg length_P1,Data Driven Supernova avg delay_P1,5347.466666666666
+Data Driven Fast Monopole avg length_P1,Data Driven Supernova rate_P1,5347.434096652807
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu avg length_P1,110.26666666666662
+Data Driven Fast Monopole avg length_P1,Data Driven Upmu rate_P1,14481.91097626666
+Data Driven Fast Monopole avg length_P1,LIGO Beat Fast rate_P1,5261.407115056535
+Data Driven Fast Monopole avg length_P1,LIGO Beat Slow rate_P1,5344.6615287064105
+Data Driven Fast Monopole avg length_P1,LIGO Trigger rate_P1,5347.433862487071
+Data Driven Fast Monopole avg length_P1,NuMI Beam Spill Trigger rate_P1,1899.8859091999789
+Data Driven Fast Monopole avg length_P1,SN bg update rate_P1,5345.584273856513
+Data Driven Fast Monopole avg length_P1,SN datablock process rate_P1,931.6834979400109
+Data Driven Fast Monopole avg length_P1,SNEWS Beat Fast rate_P1,5261.265548353195
+Data Driven Fast Monopole avg length_P1,SNEWS Beat Slow rate_P1,5347.457801978609
+Data Driven Fast Monopole avg length_P1,Supernova Cross-trigger rate_P1,5347.28099990682
+Data Driven Fast Monopole rate_P1,Data Driven Horizontal Muon avg length_P1,4897.41661026667
+Data Driven Fast Monopole rate_P1,Data Driven Moon rate_P1,11885.54894163733
+Data Driven Fast Monopole rate_P1,Data Driven Neutron-Antineutron avg length_P1,2472.9550176698435
+Data Driven Fast Monopole rate_P1,Data Driven Numu avg length_P1,8872.980827790367
+Data Driven Fast Monopole rate_P1,Data Driven Numu rate_P1,14777.240882266686
+Data Driven Fast Monopole rate_P1,Data Driven Slow Monople rate_P1,3102.554130055875
+Data Driven Fast Monopole rate_P1,Data Driven Upmu avg length_P1,10070.347136466617
+Data Driven Fast Monopole rate_P1,Data Driven Upmu rate_P1,3587.480213877784
+Data Driven Fast Monopole rate_P1,NuMI Beam Spill Trigger rate_P1,11898.82881453334
+Data Driven Fast Monopole rate_P1,SN datablock process rate_P1,9950.106417191446
+Data Driven Horizontal Muon avg length_P1,Data Driven Moon rate_P1,14155.717502651456
+Data Driven Horizontal Muon avg length_P1,Data Driven Neutron-Antineutron avg length_P1,2707.800000000001
+Data Driven Horizontal Muon avg length_P1,Data Driven Numu avg length_P1,3996.533333333342
+Data Driven Horizontal Muon avg length_P1,Data Driven Slow Monople rate_P1,1617.955599959995
+Data Driven Horizontal Muon avg length_P1,Data Driven Sun rate_P1,14566.104418226663
+Data Driven Horizontal Muon avg length_P1,Data Driven Supernova avg delay_P1,10466.066666666666
+Data Driven Horizontal Muon avg length_P1,Data Driven Supernova rate_P1,10466.03409665349
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu avg length_P1,5222.933333333329
+Data Driven Horizontal Muon avg length_P1,Data Driven Upmu rate_P1,9372.761162266675
+Data Driven Horizontal Muon avg length_P1,LIGO Beat Fast rate_P1,10379.984897755969
+Data Driven Horizontal Muon avg length_P1,LIGO Beat Slow rate_P1,10463.261528706396
+Data Driven Horizontal Muon avg length_P1,LIGO Trigger rate_P1,10466.033862486389
+Data Driven Horizontal Muon avg length_P1,NuMI Beam Spill Trigger rate_P1,7016.943147800076
+Data Driven Horizontal Muon avg length_P1,SN bg update rate_P1,10464.483035776626
+Data Driven Horizontal Muon avg length_P1,SN datablock process rate_P1,5169.126604006681
+Data Driven Horizontal Muon avg length_P1,SNEWS Beat Fast rate_P1,10379.798926052532
+Data Driven Horizontal Muon avg length_P1,SNEWS Beat Slow rate_P1,10466.057801978615
+Data Driven Horizontal Muon avg length_P1,Supernova Cross-trigger rate_P1,10465.88099990613
+Data Driven Horizontal Muon rate_P1,Data Driven Michel avg length_P1,13011.025509400026
+Data Driven Horizontal Muon rate_P1,Data Driven Moon rate_P1,4236.3848573040095
+Data Driven Horizontal Muon rate_P1,Data Driven Neutron-Antineutron rate_P1,11551.863496533357
+Data Driven Horizontal Muon rate_P1,Data Driven Numu rate_P1,5867.932823199983
+Data Driven Horizontal Muon rate_P1,Data Driven Upmu rate_P1,10525.186208266678
+Data Driven Michel avg decision_P1,Data Driven Michel avg delay_P1,2932.499333333608
+Data Driven Michel avg length_P1,Data Driven Neutron-Antineutron rate_P1,6828.904750320637
+Data Driven Michel avg length_P1,Periodic Calibration Pulser rate_P1,13540.638153333368
+Data Driven Moon avg decision_P1,Data Driven Moon avg delay_P1,1567.3753333335426
+Data Driven Moon rate_P1,Data Driven Neutron-Antineutron avg length_P1,13323.937804117366
+Data Driven Moon rate_P1,Data Driven Neutron-Antineutron rate_P1,5981.962538504027
+Data Driven Moon rate_P1,Data Driven Slow Monople rate_P1,13766.556389017338
+Data Driven Moon rate_P1,Data Driven Sun rate_P1,12443.012407744283
+Data Driven Moon rate_P1,Data Driven Upmu rate_P1,9518.025081450654
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Numu avg length_P1,6815.266666666493
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Slow Monople rate_P1,2173.6508389891924
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Supernova avg delay_P1,13170.53333333333
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Supernova rate_P1,13170.500763319917
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu avg length_P1,7913.733333333333
+Data Driven Neutron-Antineutron avg length_P1,Data Driven Upmu rate_P1,6542.021833955473
+Data Driven Neutron-Antineutron avg length_P1,LIGO Beat Fast rate_P1,13084.451564422869
+Data Driven Neutron-Antineutron avg length_P1,LIGO Beat Slow rate_P1,13167.728195373214
+Data Driven Neutron-Antineutron avg length_P1,LIGO Trigger rate_P1,13170.500529153303
+Data Driven Neutron-Antineutron avg length_P1,NuMI Beam Spill Trigger rate_P1,9721.409814466626
+Data Driven Neutron-Antineutron avg length_P1,SN bg update rate_P1,13168.949702443564
+Data Driven Neutron-Antineutron avg length_P1,SN datablock process rate_P1,7821.817130539925
+Data Driven Neutron-Antineutron avg length_P1,SNEWS Beat Fast rate_P1,13084.26559271947
+Data Driven Neutron-Antineutron avg length_P1,SNEWS Beat Slow rate_P1,13170.52446864522
+Data Driven Neutron-Antineutron avg length_P1,Supernova Cross-trigger rate_P1,13170.347666573118
+Data Driven Neutron-Antineutron rate_P1,Periodic Calibration Pulser rate_P1,9635.172525177775
+Data Driven Numu avg decision_P1,Data Driven Numu avg delay_P1,2515.978000000024
+Data Driven Numu avg length_P1,Data Driven Slow Monople rate_P1,5005.23600049325
+Data Driven Numu avg length_P1,Data Driven Sun rate_P1,13822.735504026576
+Data Driven Numu avg length_P1,Data Driven Supernova avg delay_P1,7763.333333333332
+Data Driven Numu avg length_P1,Data Driven Supernova rate_P1,7763.333290813732
+Data Driven Numu avg length_P1,Data Driven Upmu avg length_P1,2492.3999999999937
+Data Driven Numu avg length_P1,Data Driven Upmu rate_P1,13681.567658844251
+Data Driven Numu avg length_P1,LIGO Beat Fast rate_P1,7675.485127723126
+Data Driven Numu avg length_P1,LIGO Beat Slow rate_P1,7763.329671273332
+Data Driven Numu avg length_P1,LIGO Trigger rate_P1,7763.333290508032
+Data Driven Numu avg length_P1,NuMI Beam Spill Trigger rate_P1,3472.873384533357
+Data Driven Numu avg length_P1,SN bg update rate_P1,7763.216373933326
+Data Driven Numu avg length_P1,SN datablock process rate_P1,2612.790874826658
+Data Driven Numu avg length_P1,SNEWS Beat Fast rate_P1,7675.073433919797
+Data Driven Numu avg length_P1,SNEWS Beat Slow rate_P1,7763.333321760632
+Data Driven Numu avg length_P1,Supernova Cross-trigger rate_P1,7763.332985971332
+Data Driven Numu rate_P1,Data Driven Upmu rate_P1,9662.944436399994
+Data Driven Slow Monople rate_P1,Data Driven Supernova avg delay_P1,11440.70387795999
+Data Driven Slow Monople rate_P1,Data Driven Supernova rate_P1,11440.671307946372
+Data Driven Slow Monople rate_P1,Data Driven Upmu avg length_P1,6136.081976980033
+Data Driven Slow Monople rate_P1,Data Driven Upmu rate_P1,8155.031337048864
+Data Driven Slow Monople rate_P1,LIGO Beat Fast rate_P1,11354.71095272997
+Data Driven Slow Monople rate_P1,LIGO Beat Slow rate_P1,11437.898739999997
+Data Driven Slow Monople rate_P1,LIGO Trigger rate_P1,11440.671073780171
+Data Driven Slow Monople rate_P1,NuMI Beam Spill Trigger rate_P1,8009.937440160005
+Data Driven Slow Monople rate_P1,SN bg update rate_P1,11438.893672929991
+Data Driven Slow Monople rate_P1,SN datablock process rate_P1,5822.3748362910965
+Data Driven Slow Monople rate_P1,SNEWS Beat Fast rate_P1,11354.148573426666
+Data Driven Slow Monople rate_P1,SNEWS Beat Slow rate_P1,11440.695013271792
+Data Driven Slow Monople rate_P1,Supernova Cross-trigger rate_P1,11440.519134543963
+Data Driven Sun avg decision_P1,Data Driven Sun avg delay_P1,2834.35666666675
+Data Driven Sun rate_P1,Data Driven Supernova avg delay_P1,11540.923666880022
+Data Driven Sun rate_P1,Data Driven Supernova rate_P1,11540.894030718771
+Data Driven Sun rate_P1,Data Driven Upmu avg length_P1,12884.611591026667
+Data Driven Sun rate_P1,LIGO Beat Fast rate_P1,11561.67589744552
+Data Driven Sun rate_P1,LIGO Beat Slow rate_P1,11538.371211059992
+Data Driven Sun rate_P1,LIGO Trigger rate_P1,11540.89381764591
+Data Driven Sun rate_P1,NuMI Beam Spill Trigger rate_P1,11769.910573880032
+Data Driven Sun rate_P1,SN bg update rate_P1,11538.381167719996
+Data Driven Sun rate_P1,SN datablock process rate_P1,12595.310104099974
+Data Driven Sun rate_P1,SNEWS Beat Fast rate_P1,11553.33328463999
+Data Driven Sun rate_P1,SNEWS Beat Slow rate_P1,11540.915600708084
+Data Driven Sun rate_P1,Supernova Cross-trigger rate_P1,11540.63266245203
+Data Driven Supernova avg delay_P1,Data Driven Supernova rate_P1,4.2519600000000005e-05
+Data Driven Supernova avg delay_P1,Data Driven Upmu avg length_P1,5241.0
+Data Driven Supernova avg delay_P1,LIGO Beat Fast rate_P1,87.8482056099937
+Data Driven Supernova avg delay_P1,LIGO Beat Slow rate_P1,0.00366206
+Data Driven Supernova avg delay_P1,LIGO Trigger rate_P1,4.2825300000000005e-05
+Data Driven Supernova avg delay_P1,NuMI Beam Spill Trigger rate_P1,4290.060214799949
+Data Driven Supernova avg delay_P1,SN bg update rate_P1,0.110122719999974
+Data Driven Supernova avg delay_P1,SN datablock process rate_P1,5246.217186793315
+Data Driven Supernova avg delay_P1,SNEWS Beat Fast rate_P1,88.12670722665982
+Data Driven Supernova avg delay_P1,SNEWS Beat Slow rate_P1,1.1572700000000002e-05
+Data Driven Supernova avg delay_P1,Supernova Cross-trigger rate_P1,0.000345145999998
+Data Driven Supernova rate_P1,Data Driven Upmu avg length_P1,5240.961604800879
+Data Driven Supernova rate_P1,LIGO Beat Fast rate_P1,87.81151119519376
+Data Driven Supernova rate_P1,LIGO Beat Slow rate_P1,0.0036195404
+Data Driven Supernova rate_P1,LIGO Trigger rate_P1,3.0569999999999946e-07
+Data Driven Supernova rate_P1,NuMI Beam Spill Trigger rate_P1,4290.016802288363
+Data Driven Supernova rate_P1,SN bg update rate_P1,0.110165239599974
+Data Driven Supernova rate_P1,SN datablock process rate_P1,5246.180492378495
+Data Driven Supernova rate_P1,SNEWS Beat Fast rate_P1,88.0899277726598
+Data Driven Supernova rate_P1,SNEWS Beat Slow rate_P1,3.094690000000001e-05
+Data Driven Supernova rate_P1,Supernova Cross-trigger rate_P1,0.0003026263999979
+Data Driven Upmu avg length_P1,Data Driven Upmu rate_P1,14597.97125693334
+Data Driven Upmu avg length_P1,LIGO Beat Fast rate_P1,5154.918231089894
+Data Driven Upmu avg length_P1,LIGO Beat Slow rate_P1,5238.194862039732
+Data Driven Upmu avg length_P1,LIGO Trigger rate_P1,5240.967195820417
+Data Driven Upmu avg length_P1,NuMI Beam Spill Trigger rate_P1,1791.8109701333128
+Data Driven Upmu avg length_P1,SN bg update rate_P1,5239.416369109865
+Data Driven Upmu avg length_P1,SN datablock process rate_P1,885.7066620733356
+Data Driven Upmu avg length_P1,SNEWS Beat Fast rate_P1,5154.73225938655
+Data Driven Upmu avg length_P1,SNEWS Beat Slow rate_P1,5240.99113531195
+Data Driven Upmu avg length_P1,Supernova Cross-trigger rate_P1,5240.814333240161
+Data Driven Upmu rate_P1,SN datablock process rate_P1,14495.775128340068
+LIGO Beat Fast rate_P1,LIGO Beat Slow rate_P1,85.04306764999538
+LIGO Beat Fast rate_P1,LIGO Trigger rate_P1,87.81540143019404
+LIGO Beat Fast rate_P1,NuMI Beam Spill Trigger rate_P1,4215.441614749988
+LIGO Beat Fast rate_P1,SN bg update rate_P1,85.8766557599969
+LIGO Beat Fast rate_P1,SN datablock process rate_P1,5160.956496463331
+LIGO Beat Fast rate_P1,SNEWS Beat Fast rate_P1,2.562041134444744
+LIGO Beat Fast rate_P1,SNEWS Beat Slow rate_P1,87.83934092179692
+LIGO Beat Fast rate_P1,Supernova Cross-trigger rate_P1,87.65515209799663
+LIGO Beat Slow rate_P1,LIGO Trigger rate_P1,0.0036192347
+LIGO Beat Slow rate_P1,NuMI Beam Spill Trigger rate_P1,4286.321251539966
+LIGO Beat Slow rate_P1,SN bg update rate_P1,0.113784779999974
+LIGO Beat Slow rate_P1,SN datablock process rate_P1,5243.056829013299
+LIGO Beat Slow rate_P1,SNEWS Beat Fast rate_P1,84.95902532666146
+LIGO Beat Slow rate_P1,SNEWS Beat Slow rate_P1,0.0036504873
+LIGO Beat Slow rate_P1,Supernova Cross-trigger rate_P1,0.0035477499999999
+LIGO Trigger rate_P1,NuMI Beam Spill Trigger rate_P1,4290.016490168685
+LIGO Trigger rate_P1,SN bg update rate_P1,0.110165545299974
+LIGO Trigger rate_P1,SN datablock process rate_P1,5246.180228559442
+LIGO Trigger rate_P1,SNEWS Beat Fast rate_P1,88.08966334216012
+LIGO Trigger rate_P1,SNEWS Beat Slow rate_P1,3.1252600000000006e-05
+LIGO Trigger rate_P1,Supernova Cross-trigger rate_P1,0.0003023206999979
+NuMI Beam Spill Trigger rate_P1,SN bg update rate_P1,4289.441528049954
+NuMI Beam Spill Trigger rate_P1,SN datablock process rate_P1,2025.7060114088772
+NuMI Beam Spill Trigger rate_P1,SNEWS Beat Fast rate_P1,4214.930009819979
+NuMI Beam Spill Trigger rate_P1,SNEWS Beat Slow rate_P1,4290.051350111767
+NuMI Beam Spill Trigger rate_P1,Supernova Cross-trigger rate_P1,4289.795486709976
+SN bg update rate_P1,SN datablock process rate_P1,5244.427175493316
+SN bg update rate_P1,SNEWS Beat Fast rate_P1,86.21931811666208
+SN bg update rate_P1,SNEWS Beat Slow rate_P1,0.110134292699974
+SN bg update rate_P1,Supernova Cross-trigger rate_P1,0.110237029999974
+SN datablock process rate_P1,SNEWS Beat Fast rate_P1,5160.865957573328
+SN datablock process rate_P1,SNEWS Beat Slow rate_P1,5246.208322105138
+SN datablock process rate_P1,Supernova Cross-trigger rate_P1,5246.031866287342
+SNEWS Beat Fast rate_P1,SNEWS Beat Slow rate_P1,88.1178425384633
+SNEWS Beat Fast rate_P1,Supernova Cross-trigger rate_P1,87.93388455066285
+SNEWS Beat Slow rate_P1,Supernova Cross-trigger rate_P1,0.000333573299998
